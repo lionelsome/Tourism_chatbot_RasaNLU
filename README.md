@@ -21,13 +21,13 @@ $ cd Tourism_chatbot_RasaNLU
 
 ## Running the tests
 * Install Rasa NLU pipelines:
-- For **spacy_sklear**: 
+> For **spacy_sklear**: 
 ```
 pip install rasa_nlu[spacy]
 python -m spacy download en_core_web_md
 python -m spacy link en_core_web_md en
 ```
-- For **tensorflow_embedding**:
+> For **tensorflow_embedding**:
 ```
 pip install rasa_nlu[tensorflow]
 ```
