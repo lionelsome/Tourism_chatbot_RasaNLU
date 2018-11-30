@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "a05ce79c-9900-4818-b27d-f4fbb14da150",
+    "data": [
+      {
+        "text": "@accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "01907b3c-21d9-4ea4-8efe-170e0552ee20",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "138a6588-3b44-4296-aafd-be194afb8a45",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "5b1aecf6-f7d3-4f66-8759-baa6bad9b6c7",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6baaedbb-ff88-4f7e-9796-17083176db5d",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "afe38613-9022-46a9-a245-e338b3532798",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "edf6ef34-1c1b-43a2-a882-ad736f893792",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "cf288ac3-0dda-432d-a078-afe1de59d132",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "ae222303-b419-48e1-a97f-ca5bc6488622",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "f73b090d-c301-4a82-a728-026d0016a81b",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "917f5d5a-e9c8-4675-ab09-b01087394d2c",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "b7614b2c-c564-43a0-bba4-affcf1279950",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "d964bc1e-f0fe-44f9-8195-8663f32d90d6",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "820039a0-070e-45d4-893e-26d0c130cf7e",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "d3587f5f-0766-4d83-8d76-1e8b0ccc4949",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e809a0b6-d73c-4950-af16-0c03c5efbe8e",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "1bb0a60a-4732-45f3-81ce-c66b72a1d696",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6fa39e1c-43ac-4f30-845d-dff7f0ec01e9",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "585b665e-9f24-4220-bfaf-9dfed84a2f62",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "2e75958b-7510-43a2-bf72-8fb64091c457",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "4fa40761-d79d-4ebb-8942-10eb92aec4c7",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "191bb677-96c3-42c4-acf5-f4840101483a",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e2b01cab-9800-4ff6-a787-7bc28c4fe5c2",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "53b2cb0f-f1c4-4eae-8ebb-2450cc4e605f",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "f77f8238-daac-4c73-8714-16b012dc7b71",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "0b384a7c-e83b-4e62-a1d6-446419fbe238",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "776fbef4-72bb-4bbd-a776-87a81d7c1cab",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "9d65c3ad-17e5-49e6-905f-632942790ebd",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "bd30bf4a-3963-417d-a41d-0fc99e1daa2a",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "8d83b2c4-778a-47a1-913b-712b47de4341",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "b1de0a1c-368f-4e47-9aba-36de0f056c78",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e2faabd2-f069-4254-b9e0-761207e1b6e1",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "81fa7962-e2dd-42f6-a6e1-165fec3ab4c6",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "fa735997-6854-47bb-b880-26ba4b213453",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "bd7886a2-b8d3-4ed4-a721-feb8e936d5f5",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "96217357-a3ca-4564-b457-22ae21e23c54",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "3b6883aa-2c9a-4176-a00f-42e654028b88",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "ba07cd39-5cc4-4246-a30e-5b67f6cf2588",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "1ee02971-a134-4a21-9d77-0003e187727e",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "74792057-bc5d-40a1-b7d6-6b523c5cf435",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "52e7cc85-a9b5-4a60-a204-596fb78df75c",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "912b5d54-99b9-48bb-a097-d9d104250774",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6865d1ba-9869-4bf6-ac96-1cb125743d17",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "89db9235-2acc-4eac-bc46-732e150126ac",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "1a22b124-a36f-4521-9ced-587a2e91efa1",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "cff67622-410b-4189-b208-851797e4ce25",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "43c8d46b-9b4d-41f5-9263-9688ea84b3a2",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "c8fe2193-3821-4432-8e9b-257511f466cb",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "4e2c4d64-e173-40ef-8783-97af18593fea",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "7aa780e0-54ea-41de-b149-7faa470c6bf4",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "cc7ca242-c517-4c2c-8de1-57e0063c3998",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "71297121-2fa2-4e92-a7d6-71b4c24bff36",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "4c72bbbe-9b10-4d92-b25a-bc5dd91dc62a",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "28ad05c0-1f88-4c4a-b3d4-edcc36352b63",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "8aaa1ccc-89d4-4b65-9a86-2a35b8ec0781",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "81fe8db6-519b-415e-b9c7-d97f15afe40a",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "47497ffa-6651-4b54-be36-b1c23af065fc",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "feb96b3b-4916-4d1b-b104-9f63e62f0ba8",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "f483f90a-17f2-4fde-8cc2-3f9ab9fe8385",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "27632d7a-f36b-4187-aec8-52a6e4100c6d",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "597ac625-d0bf-462d-839f-d22ff6a0e2b7",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e697688d-c211-4514-ab87-80894328e0d9",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "a715142b-ccb2-4943-8b06-3ce18ca1a51f",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "cc60e8f0-596e-4005-ac70-294070a3703b",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "50b81c27-11c8-45fc-9f5c-4f09ae1fc79e",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "f9a592c4-a3ec-48ec-89a4-90d64783b1cc",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e589ce95-d893-431a-b15a-be083997bc39",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "80175e35-9cfe-4988-a37e-32cb6fca2d92",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "79e47e6a-9d49-4315-a583-fa6474e78012",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6e6342ab-e434-4d60-a74f-983fd7d24a72",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "c5b2c779-7426-4751-8441-428e7a7ac5ad",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6684a3b9-02cc-47d6-bb55-005544ac3eff",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "c496b6ad-69d8-4389-97af-3c6eea3b5ebd",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "de0f3325-a5b8-401a-81ca-1a8996a9a384",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "ef237046-e8fd-49af-abd0-833230e8238c",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "9f6d2f65-3a6e-4e4e-b767-e9973efed520",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "d6725ef7-b8f5-4379-a79b-40a39c2decd5",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "558e61e0-6ba0-4572-b59b-b585b20b5564",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "19989d33-9810-4d2b-8155-18685fce86b0",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "7a1b328e-dd47-412c-9232-3b2ae442ad46",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "3bf0203b-3a65-4e57-a1f4-30ac705347ad",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "bd185292-0afa-45cc-8270-aa00bfbbe156",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "93e8fc8a-cd31-4e83-acc4-5c3e9db5cabe",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "b2669169-e263-4bb0-abb3-57157ff74a12",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "fa61ff2a-4676-4490-9c41-c9820ad3f8a4",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "3e27b863-dfb0-4d6b-b15d-90ddce49729e",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "75f6ced4-9d63-44d2-aabf-af0ce82e10cc",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "71017057-6f00-43ea-a510-cd82a1b2ec03",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "cce7c7c6-c4e6-48ed-9011-aa1b8cfdacf0",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "89f76725-883a-4ef1-b0b2-d8532cb24ec8",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "5cd0feff-2ad2-447b-8817-4c3f38cdd52d",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "efdc8980-44f8-4a3c-8fb1-5bae53f9474e",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "c6a2ed2a-51d9-4d52-9767-e4d6e074bb70",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "2c580ea6-a52d-492a-999a-7534429c9521",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "183c70fe-e8c6-418d-a836-5aeefff97788",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "47268276-2bc1-4751-a5b5-18e621bea8de",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "20eb0255-b2b4-4195-84bc-a570ebc3a486",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e4362a3e-39de-4a21-9e87-31130feb5809",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "36c79af6-b9c4-4d22-adcd-c751a0df8699",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "cd9a26da-07a9-4f37-b302-c073cf9f1a04",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "d2d78877-8e04-4ba3-9957-40679f296fac",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "aa30d524-03c2-40a7-91d3-5b70824ba3d8",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "57a4c12b-52df-43f8-ac83-17d8df655e5b",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "456331af-e69e-47b5-b001-4d513265f673",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6baa5a10-e3fc-4bfb-b07f-c4143a0da2de",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "65576c1b-05ac-45f1-af34-c0170899bec1",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "1a9e40d9-bc62-4ed7-96dd-cf1f134c0f5f",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "e8481c42-6d4d-4632-805c-e5cf4ed35e30",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "13856561-ec37-4abf-924b-12a7b0648d0c",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "b728addf-24f4-47a9-804a-993137be19d0",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "4076715f-0125-4a49-b10b-064530494d57",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "2a91678c-7846-4cc9-afde-8a9660afca95",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "f5015119-42e9-4180-bbfe-ddbb0f6f0370",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "4618d6a6-deda-4505-b9ab-428b0878d2e4",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "46097cf0-48b2-4c2c-820f-2d262faaa1d2",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "2a4f0765-15a3-4b65-94b5-59581efb5c04",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "89b94bb6-53cc-40ce-beb6-9cbfe3a73735",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "44d75a6a-d8dd-4022-a1c4-363ff1ecb494",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "a482ce47-5ad5-4e4d-acc2-76c9850a7781",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "c8f6e54e-4a75-4211-851c-91b8113281fb",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "7581a4fb-ef94-46ae-b08b-e3315da65d69",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "6672d452-1183-4d76-bddb-44945e0b3306",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "c8d96cec-6f76-44ac-a0f3-b76b7c52dd70",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "1837e20f-0f6a-43cc-ba75-e4f12c901b0d",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "682785ea-8975-4d10-ac84-530e16ee434e",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  },
+  {
+    "id": "da8cc237-1c2c-4d4f-889c-4b60a746f853",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785869
+  }
+]

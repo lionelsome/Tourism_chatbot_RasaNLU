@@ -1,0 +1,638 @@
+[
+  {
+    "id": "44365ed8-f39a-4c46-95e3-c92e3066886b",
+    "data": [
+      {
+        "text": "plus de résultats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "61e2ce78-5849-4a73-b2bc-958575dc5341",
+    "data": [
+      {
+        "text": "encore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "995e9e32-f1f4-4056-bb84-6d32b020b411",
+    "data": [
+      {
+        "text": "montre moi plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "0576922a-4d6f-40cd-9852-5575bcd369ca",
+    "data": [
+      {
+        "text": "quelque chose d\u0027autre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "801ab52a-92d8-4495-8ab2-c7e3ad2f1da7",
+    "data": [
+      {
+        "text": "C\u0027est pas assez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "3052f2e3-2172-4faa-b718-ca22a78a8129",
+    "data": [
+      {
+        "text": "encore plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "4242fe5b-23bf-41d5-ac06-cef0c1872474",
+    "data": [
+      {
+        "text": "davantage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "1ed0a031-e6da-4002-b7c7-359a4b41bdb2",
+    "data": [
+      {
+        "text": "c\u0027est tout ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "44cc3e3a-0b9c-40d4-bcc0-7efe5b6f9c35",
+    "data": [
+      {
+        "text": "j\u0027en veux plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "21b30471-08fd-4045-b184-3fa7b384cc70",
+    "data": [
+      {
+        "text": "t\u0027as rien d\u0027autre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "2dd7fd9f-8438-4751-bc6e-608b26fa05a1",
+    "data": [
+      {
+        "text": "tu n\u0027as rien d\u0027autre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "f567e202-98e8-4541-9f53-43192f0e1148",
+    "data": [
+      {
+        "text": "rien d\u0027autre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "5c6a9dc0-a834-4197-b858-7f6ccc84d4da",
+    "data": [
+      {
+        "text": "c\u0027est tout ce que t\u0027as ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "a720c7c1-b02d-4afa-add6-eef3b50f26b1",
+    "data": [
+      {
+        "text": "c\u0027est tout ce que tu as ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "b206684b-c6cd-4508-b70a-52759b6b7e84",
+    "data": [
+      {
+        "text": "montre moi en d\u0027autres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "763f0619-33ba-45e8-b6df-e44222887aad",
+    "data": [
+      {
+        "text": "montres moi en d\u0027autres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "dd604dd7-bc3e-4eba-bfa3-2efc4b45474f",
+    "data": [
+      {
+        "text": "montres moi en d\u0027autre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "4d8ef31a-9348-4b82-8427-0ece9d021087",
+    "data": [
+      {
+        "text": "montre moi en d\u0027autre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "ac64fc1d-bd80-445c-a47f-e13bb79dbc5e",
+    "data": [
+      {
+        "text": "montre d\u0027autre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "e51ed9cf-3183-462e-9cba-9aa435b22e27",
+    "data": [
+      {
+        "text": "qu\u0027est que t\u0027as d\u0027autres ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "987ee1ac-42bc-40b4-b205-ed74e1877219",
+    "data": [
+      {
+        "text": "qu\u0027est que t\u0027as d\u0027autre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "cca3f1d0-c059-4b8c-badb-f1c8ef46d177",
+    "data": [
+      {
+        "text": "qu\u0027est que tu as d\u0027autre ? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785845
+  },
+  {
+    "id": "d87c1e8b-b804-4059-9116-bee048433bd4",
+    "data": [
+      {
+        "text": "affiche en d\u0027autres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "41793512-ad7b-4142-abb3-02ec65b690d2",
+    "data": [
+      {
+        "text": "afficher plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "44be0bf4-f477-40c5-aef7-fefbeb247069",
+    "data": [
+      {
+        "text": "montrer plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "e0aebcc4-bcbd-47e0-a7b2-413f1d268942",
+    "data": [
+      {
+        "text": "plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "e77e834b-f749-4eb5-9b09-70cc63027446",
+    "data": [
+      {
+        "text": "c\u0027est pas grand chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "8dfd330e-9764-4791-ae18-4426354a02df",
+    "data": [
+      {
+        "text": "autre chose ? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "82197d12-463a-44a1-acd8-ada725f2a1df",
+    "data": [
+      {
+        "text": "c\u0027est vraiment pas grand chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "19ed0866-ce3c-4186-8c1f-4de02fafdd2f",
+    "data": [
+      {
+        "text": "cherche encore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "95dab664-187c-448b-a35c-616cec2c2d41",
+    "data": [
+      {
+        "text": "il n\u0027y a vraiment pas grand chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "3344d92c-7e4d-4faa-b344-0e0c76f69f37",
+    "data": [
+      {
+        "text": "autres choses ? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "9a3632b6-e267-4bdf-9f74-50e72d4c67be",
+    "data": [
+      {
+        "text": "chercher encore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "ae1b72d6-98eb-4d12-a3d3-b30bafdd3bc5",
+    "data": [
+      {
+        "text": "pas grand chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "b2ae6865-3a7f-4d28-9281-aa3f9dc49b43",
+    "data": [
+      {
+        "text": "c\u0027est pas beaucoup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "c9215a39-1ad0-4cbd-9848-0fd9922e5c40",
+    "data": [
+      {
+        "text": "affiche plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "2a3a7aae-3c76-4c2c-a654-fb72e3b069bf",
+    "data": [
+      {
+        "text": "montre plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "2b552e5c-4bbd-4730-bafa-cc6194b9716a",
+    "data": [
+      {
+        "text": "affiches plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "ec881712-7ae0-4ddc-95da-2b19c5c2dbe5",
+    "data": [
+      {
+        "text": "montres plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "651cf9b8-6f8d-420a-9b3c-1431dd9de591",
+    "data": [
+      {
+        "text": "plus de liste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "d14e4fb4-b535-4f1c-a14c-d120ed2bd5de",
+    "data": [
+      {
+        "text": "trop peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "ad19dc5e-7c07-4341-809d-4588bbf94acc",
+    "data": [
+      {
+        "text": "pas assez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "e16ae55c-e6aa-4d05-b5e4-96115663c507",
+    "data": [
+      {
+        "text": "c\u0027est faible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "c345c82f-5652-441d-911f-6564fc5fb163",
+    "data": [
+      {
+        "text": "y a pas beaucoup là",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "616caf7a-8b3b-4b3b-92a6-804a89a8ef7e",
+    "data": [
+      {
+        "text": "pas beaucoup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "18e2bcdb-ccfe-493e-8863-530857da10cd",
+    "data": [
+      {
+        "text": "affiches en d\u0027autres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "1f035520-7745-4f2d-81ed-5c27bba7fa7d",
+    "data": [
+      {
+        "text": "c\u0027est tout ce que tu as dans le ventre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "476baa95-7357-424c-ae8a-6031a9d607ac",
+    "data": [
+      {
+        "text": "t\u0027as rien comme données ! ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "d2324a45-b3da-4535-b140-a36dbc441f7d",
+    "data": [
+      {
+        "text": "tu n\u0027as rien comme données ! ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "2085a514-6305-4d15-850b-dd35ea69c1f6",
+    "data": [
+      {
+        "text": "que ça ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "ab15c03a-2456-4dd0-b10f-0785589f1316",
+    "data": [
+      {
+        "text": "c\u0027est pauvre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "3e184cad-f691-4fd4-b407-bcc1c0c38449",
+    "data": [
+      {
+        "text": "t\u0027es pauvre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  },
+  {
+    "id": "b62f303c-1102-45e8-ac76-56aa0327e3de",
+    "data": [
+      {
+        "text": "affiches-en d\u0027autres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785845
+  }
+]

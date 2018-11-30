@@ -1,0 +1,93 @@
+{
+  "id": "dc2aa248-caf1-4fd4-9b58-8c8597f107e1",
+  "name": "find.alternatives",
+  "auto": true,
+  "contexts": [
+    "finding"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.alternatives",
+      "affectedContexts": [
+        {
+          "name": "finding",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "61ba71ba-2e88-4fd9-87e7-10a72417907d",
+          "required": false,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "65e7dba8-3739-4e02-8887-e4ad959ab803",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "5125cf6f-7761-4681-935a-85132f5da105",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "2b7e1f11-3df7-40f3-aeba-2826dcfd81d8",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "datetime",
+          "value": "$datetime",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "57fad572-07ab-4d71-b10a-b769076ab9af",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785835,
+  "fallbackIntent": false,
+  "events": []
+}

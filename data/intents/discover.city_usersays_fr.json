@@ -1,0 +1,38 @@
+[
+  {
+    "id": "39777287-e689-4e87-a1ee-429270f30734",
+    "data": [
+      {
+        "text": "dis-moi en plus sur ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785955
+  },
+  {
+    "id": "786c8a4d-6159-4313-afd3-5f9dc4149870",
+    "data": [
+      {
+        "text": "découvres ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785955
+  }
+]

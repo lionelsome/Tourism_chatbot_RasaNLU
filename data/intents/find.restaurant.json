@@ -1,0 +1,81 @@
+{
+  "id": "e6a15efe-9640-46f9-9ced-797d3ef1ff3e",
+  "name": "find.restaurant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.restaurant",
+      "affectedContexts": [
+        {
+          "name": "finding",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "41251021-0ced-49e1-8a76-0d27df2da4ba",
+          "required": true,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "7fc1170b-71f5-4cf4-8791-b4aa150e379e",
+          "required": false,
+          "dataType": "@food",
+          "name": "food",
+          "value": "$food",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "53d36858-bfa5-45dd-8367-6f3747e451f3",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "aadbf8f2-8be7-473e-8fb0-676cd8bfabe1",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "datetime",
+          "value": "$datetime",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785857,
+  "fallbackIntent": false,
+  "events": []
+}

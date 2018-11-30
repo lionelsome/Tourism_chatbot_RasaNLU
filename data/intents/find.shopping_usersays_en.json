@@ -1,0 +1,4168 @@
+[
+  {
+    "id": "908b6407-2c83-4d8f-9f47-f6ecd0f19f75",
+    "data": [
+      {
+        "text": "I want to do some shopping!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "39e03f10-3d69-469c-88ba-372ba9bd0acf",
+    "data": [
+      {
+        "text": "let\u0027s do shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "d8f8162d-b819-497a-9161-0513ca3ea3ce",
+    "data": [
+      {
+        "text": "I want to buy a gift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "509afdb9-007c-4f77-a2eb-0e12c4b7f613",
+    "data": [
+      {
+        "text": "I would like to buy a gift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7b3f3870-a736-4aec-8189-17462bbd593a",
+    "data": [
+      {
+        "text": "I would like to buy souvenirs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ff78234e-70e8-45a1-9c2e-ad74ec903afa",
+    "data": [
+      {
+        "text": "I would like to buy a souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "308fb224-fbf4-43b0-98a9-fb1cbc94c69a",
+    "data": [
+      {
+        "text": "I want to buy a souvenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "703e93e3-85d5-4989-a25b-b75702543e13",
+    "data": [
+      {
+        "text": "where to buy a gift?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8d3d8145-a975-41a3-b621-617f33f16d16",
+    "data": [
+      {
+        "text": "where to buy a souvenir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "0c1a24ae-2f47-43cc-b10b-6751bde9c5f6",
+    "data": [
+      {
+        "text": "where to buy any gifts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "38717ef8-875e-4b08-aaa0-a16f242af0fe",
+    "data": [
+      {
+        "text": "where to buy any souvenirs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c10a14b6-4bce-47cb-b066-e0f1e477eca8",
+    "data": [
+      {
+        "text": "local shops ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "033cd8e4-b0f6-4e11-8b3d-c0dc942fb44d",
+    "data": [
+      {
+        "text": "gifts shops  ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c5e41bed-8129-4f5b-b505-c63123dc3573",
+    "data": [
+      {
+        "text": "I want to do shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "552cd8f7-ab74-46c3-b35e-5ddaf55c71a6",
+    "data": [
+      {
+        "text": "I want to do shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "a5cc956f-9be7-4927-bb86-2ef7a9435871",
+    "data": [
+      {
+        "text": "I want to do shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "889c9a26-9c0d-4895-ba81-887988f5c86a",
+    "data": [
+      {
+        "text": "I want to do shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "da0c67db-764d-4281-998e-1fafed13cdd6",
+    "data": [
+      {
+        "text": "I want to go out for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f970a142-1437-4b7b-8d07-cdcb42038b97",
+    "data": [
+      {
+        "text": "I want to go out for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "922970b6-5eb9-43ca-9b9d-3ae0d6a7ef91",
+    "data": [
+      {
+        "text": "I want to go out for shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "58540cb7-ca4b-44e1-a925-eb6b6205d90f",
+    "data": [
+      {
+        "text": "I want to go out for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e50a755a-8e73-414f-8750-8611fd796deb",
+    "data": [
+      {
+        "text": "Shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "64fac1c3-727b-440d-99cc-50a2d8e957d4",
+    "data": [
+      {
+        "text": "Shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "98e51737-d46f-4d90-a868-820f2f18ebb0",
+    "data": [
+      {
+        "text": "Shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4a92245b-9a54-4af0-8bd6-21af4e12dd88",
+    "data": [
+      {
+        "text": "Shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e1035867-b323-432c-9087-eddc272922da",
+    "data": [
+      {
+        "text": "Find shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "34870f21-fb50-44df-b455-bf01f13ce984",
+    "data": [
+      {
+        "text": "Find shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "79f3761e-4f78-45e9-a175-bfaf0f906c3d",
+    "data": [
+      {
+        "text": "Find shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "606e3f3e-6d2d-400e-9a50-64d6b3551186",
+    "data": [
+      {
+        "text": "Find shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "95caf309-13da-4372-9ec4-71f836b2b4be",
+    "data": [
+      {
+        "text": "look for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9196674c-a082-42d2-938d-78ebc1a3f3c1",
+    "data": [
+      {
+        "text": "look for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "a72e892f-b5a0-4c1e-a446-c921b3b9b1d5",
+    "data": [
+      {
+        "text": "look for shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1650cce9-c5c3-4a99-af1e-303e0c7229da",
+    "data": [
+      {
+        "text": "look for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "40ef9eb4-d6e1-4f2f-9392-ad41f0e0547f",
+    "data": [
+      {
+        "text": "check for shoppings in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "380cfc13-6c24-442a-ae8f-c7ecb5c4854a",
+    "data": [
+      {
+        "text": "check for shoppings in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "441b98ac-8fa0-434e-90d4-21fa99fa51e3",
+    "data": [
+      {
+        "text": "check for shoppings ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1e635cb1-058f-4953-9e5d-27b606d384fb",
+    "data": [
+      {
+        "text": "check for shoppings in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1dfd452f-d9e6-422e-b71f-c73ff671b5b6",
+    "data": [
+      {
+        "text": "show shoppings in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "70d1a940-ee1b-487e-816f-9ac02a6ad265",
+    "data": [
+      {
+        "text": "show shoppings in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8c68112d-1dbf-4f24-a729-2df34a3c09a7",
+    "data": [
+      {
+        "text": "show shoppings ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c73f6667-89d2-4bda-a686-9156c18289ba",
+    "data": [
+      {
+        "text": "show shoppings in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ddd2e7ce-d517-4f44-a0de-24147a99fab1",
+    "data": [
+      {
+        "text": "look for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "db761176-24cd-411d-aca5-4d46b5f8837d",
+    "data": [
+      {
+        "text": "look for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "d774f4b8-fabc-4f39-9ca9-c9aa6ecee6c3",
+    "data": [
+      {
+        "text": "look for shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9ced0241-c031-41e4-b4c9-0a6efa2232c6",
+    "data": [
+      {
+        "text": "look for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7a48939d-ddf6-4d67-8937-192dbd612135",
+    "data": [
+      {
+        "text": "check for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ee5a353d-2587-49ba-aebe-6c4457a9155a",
+    "data": [
+      {
+        "text": "check for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5cf0d5ce-d285-4f1d-9213-0d1a405a8732",
+    "data": [
+      {
+        "text": "check for shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c45bf75b-c840-4dd3-9ecc-ad22e9a826ca",
+    "data": [
+      {
+        "text": "check for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4026d742-a4cd-4d7b-8d39-5c48678e8faa",
+    "data": [
+      {
+        "text": "show shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "0cc440f9-698a-4889-a8b3-669bfa3a5ef3",
+    "data": [
+      {
+        "text": "show shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e6943001-ddb2-40d3-9f96-f4eb3a93bfdb",
+    "data": [
+      {
+        "text": "show shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "25bc4d37-5a7e-4720-8f10-44b628ad2832",
+    "data": [
+      {
+        "text": "show shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "54e7a6f9-3544-42ce-9efa-a673dc5f7970",
+    "data": [
+      {
+        "text": "Shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "d8fc864d-46df-4bae-9eed-4e1d40b74362",
+    "data": [
+      {
+        "text": "Find shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "74fc3346-4d77-4e3c-816f-0a9bc0360297",
+    "data": [
+      {
+        "text": "look for shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "57e63409-2b19-4cf6-8536-7303d7de10fd",
+    "data": [
+      {
+        "text": "check for shoppings ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "bdc4bac5-d982-47d7-84db-3a1233086360",
+    "data": [
+      {
+        "text": "show shoppings ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7fa4ab5e-ec2a-4afd-a195-8d4b98cad21e",
+    "data": [
+      {
+        "text": "look for shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8219b5fd-abcc-4c26-b20f-2991a65195be",
+    "data": [
+      {
+        "text": "check for shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "047ad5ee-10e8-4b8a-b8af-2178b0ef0e1b",
+    "data": [
+      {
+        "text": "show shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e7d31bcc-4404-467a-b559-181e7ce8d69a",
+    "data": [
+      {
+        "text": "find local store in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1e1d03fe-69a1-4aae-ac53-df048d0a6077",
+    "data": [
+      {
+        "text": "find local stores in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f3c03561-33e1-425c-aa9d-c81823342e87",
+    "data": [
+      {
+        "text": "check for some local stores in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "35afe7cc-61fd-47d7-8ada-cc76fd758880",
+    "data": [
+      {
+        "text": "store in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "a72ee574-537a-42d3-a882-d7ad9171ba1e",
+    "data": [
+      {
+        "text": "find local store  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "603a487f-3a01-4998-9461-e86284aae4ab",
+    "data": [
+      {
+        "text": "find local stores  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fa0ca13b-6f2d-4fa5-9423-44497cc53e8d",
+    "data": [
+      {
+        "text": "check for some local stores  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "40b40528-b655-404a-8134-f1d8ca397f4b",
+    "data": [
+      {
+        "text": "store ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1713238f-ced9-4594-85e1-abff53156286",
+    "data": [
+      {
+        "text": "Stores in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "d81cbfc9-c9f3-409f-ba72-e865f7c727af",
+    "data": [
+      {
+        "text": "I wanna do shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "844121ca-5b19-4aff-a6d3-3505f8c78fc5",
+    "data": [
+      {
+        "text": "I wanna do shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "84d47cee-8ded-469b-bb3d-b0c2214a221d",
+    "data": [
+      {
+        "text": "I wanna do shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "146e72fc-5201-4f49-a124-a814d996a392",
+    "data": [
+      {
+        "text": "I wanna do shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "a9774833-f860-490d-816b-5f74ee24c328",
+    "data": [
+      {
+        "text": "I wanna go out for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9d4eee3e-fed4-485f-aa2a-36598dc694ef",
+    "data": [
+      {
+        "text": "I wanna go out for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "06847561-b2b3-4a19-a968-44a7421d1d13",
+    "data": [
+      {
+        "text": "I wanna go out for shopping ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "68eec011-10db-465e-95a7-ce897e71b027",
+    "data": [
+      {
+        "text": "I wanna go out for shopping in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5a64fc91-d10f-4adc-ac7d-de254d4d0269",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "373c8cf1-b54a-4e4d-b5d3-c422c4ebfe75",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fb5ec37b-205e-4ceb-be65-6c421edfbb79",
+    "data": [
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "618e8989-248b-41de-87f9-27525bd0aac9",
+    "data": [
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "98f1eb68-d502-4575-87fb-f122cdaa0f4a",
+    "data": [
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "3d33f6be-5601-4adf-9b24-9789f9c0ae66",
+    "data": [
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "bc1179ca-c851-47f3-b519-53444adc629c",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "bf6979a0-cff2-4353-923e-6a735e05c118",
+    "data": [
+      {
+        "text": " look out for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "cef37c67-0f31-499f-a959-10ca8dff6735",
+    "data": [
+      {
+        "text": " look out for shops on",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "94748334-0b90-46dc-9d4a-cc2257836fef",
+    "data": [
+      {
+        "text": "look out for shops ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "7ba27661-d394-4cca-94f0-7d8c2f76976a",
+    "data": [
+      {
+        "text": "look out for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "3bf4e3c8-d26e-4e8d-90f2-d22aa57e28b0",
+    "data": [
+      {
+        "text": "look out for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f195a07e-648c-42aa-949f-7efc972bd8f2",
+    "data": [
+      {
+        "text": "look out for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "d9c3a3b8-f044-4fc7-bc29-be4a283c00b6",
+    "data": [
+      {
+        "text": " look out for shops in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "06786587-374e-4670-b2ae-3a4b803215ad",
+    "data": [
+      {
+        "text": " any place to shop  in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4b51bed6-4008-45b7-8fd0-fad8c8ab57a3",
+    "data": [
+      {
+        "text": " any place to shop  on",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5672fe19-04b3-4b22-9bdd-15dea3d55eac",
+    "data": [
+      {
+        "text": "any place to shop  ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "2c34225a-4b2c-42f7-a1b8-b563b0db67ef",
+    "data": [
+      {
+        "text": "any place to shop  in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "693e6f89-9d87-4231-8c0a-d85ea1cc8b53",
+    "data": [
+      {
+        "text": "any place to shop  in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "2447c3da-5bac-44bd-b077-4c96c338ae37",
+    "data": [
+      {
+        "text": "any place to shop  in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fec11d5a-138b-4c0a-84db-437a02ee7ffe",
+    "data": [
+      {
+        "text": " any place to shop  in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "56c0e659-2956-485f-94c9-1577fb84c13e",
+    "data": [
+      {
+        "text": " find me shops   in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "29de3dc5-f29d-4d05-8e7f-e7d19b8b8460",
+    "data": [
+      {
+        "text": " find me shops   on",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7001fdcd-c4e5-4451-8b2e-0caa1fe71f26",
+    "data": [
+      {
+        "text": "find me shops   ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785818
+  },
+  {
+    "id": "fe476c6d-a5d3-4dd5-8eb7-60197a4fc41e",
+    "data": [
+      {
+        "text": "find me shops   in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5c094598-6735-45f9-891c-28c97f236889",
+    "data": [
+      {
+        "text": "find me shops   in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ba41a007-4d48-47cb-89c0-8efe187333b6",
+    "data": [
+      {
+        "text": "find me shops   in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4d7f3a3b-2330-4cdd-893c-8cff6bd01c17",
+    "data": [
+      {
+        "text": " find me shops   in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "81e3560f-e8d6-48a5-85ba-574a8cab45c5",
+    "data": [
+      {
+        "text": "@shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5e4d238a-a293-4b45-8903-66b7191f7fe0",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "da5d0d9e-1e25-467a-b33d-8d88f9ae593f",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fc0e80a6-ff2b-4c3b-9c5a-41541f01e5f8",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "dc94770a-9951-4e82-9100-a2d34b25e6c7",
+    "data": [
+      {
+        "text": "@city:city @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "06203640-1d1b-4f45-9103-b821e21168bc",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "905bbf50-7971-4f1b-a342-f2829765f939",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "28380b2b-ae75-4e8e-9c27-ab9198945436",
+    "data": [
+      {
+        "text": "@city:city @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5a52e38d-5b38-49d4-b835-2e1c3da5ac1f",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ff2d1fe9-2986-4c3b-aec0-f0cfa919c23c",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e4801079-a590-4d2e-a7e9-00e162965329",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4e964e43-fa7c-4787-a138-e22abd17b9cb",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "98359521-80bf-417e-a321-268bae4c2dd5",
+    "data": [
+      {
+        "text": "@shopping:shopping @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "43985639-f384-450b-a853-0fc7bb1dbf25",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8e00b897-19e2-46b9-bd58-130a1219265f",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e0d5bd20-fc99-4693-92f3-126f839e25f9",
+    "data": [
+      {
+        "text": "@shopping:shopping @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "24f63ff8-75ce-46f6-9377-5d06dd761404",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "2a2672a2-fef7-4256-abdc-eeeca8371bf1",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "81c8d923-dfd8-4655-b1d0-20cd3801c672",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "139acf75-3ad0-4895-ae0c-c0e45170e9ce",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "45387eb4-bb29-48da-bdf4-32a39a39acd6",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "6da595d5-6298-4ffe-a73f-58c0617316ee",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "630f213e-1b2c-4a50-bfc9-82ed39c255b9",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c4518213-71d5-4c2a-b346-b7567d38e4a8",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "d2fc8a26-9f44-459f-99a7-f8e7fd0d32b2",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8aa655ae-2cbe-42a8-8df4-e8d9fe1dba5c",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1d87bb69-a703-4c75-a877-70b8b4667cbf",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "bc5d1480-2880-4755-89b6-db897e62df33",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1e1f0317-f5cd-40f2-b915-c372d31b6c0d",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ee1daa87-bbf7-4fe9-9983-d131b0cc81b8",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "dee26ef0-1400-4016-b0b4-39a1256bcda3",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fa55e7c4-5596-4297-ad06-0f358920c8dd",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "b25e0b85-3459-4d6b-8602-577d7ca49cfd",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "2dc19c61-3c12-44ca-ae0e-fd7bb27c0799",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5a7ecb3d-230b-4043-8914-5ef70c3a0a9c",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1bc247c5-592e-4144-8e8e-4ca52be44b1d",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f0604d2a-a4e0-4a1d-8a6b-14c34bb58657",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "10cfdcfd-d9e1-4c21-890f-547dffe521d2",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7e2469e3-bbc6-4027-8d59-d3de00ea8fa0",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9d62fdc7-3e3d-4845-af16-5cb9892011a8",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f2887235-7739-4bda-8d34-156e53704c15",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "6b1066f0-770f-4ac9-aa6a-7893a6958c57",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "58e11dc3-803b-4130-a29f-4da30cad03f6",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "39c12e33-2113-4022-b0fc-4b856df03f82",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c4f55679-d1a3-4ba9-a18e-755e527d54bd",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4f8842c5-516a-4a4a-9240-ac771679de08",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e049b8c3-8ce4-4720-8c05-f256a85ee24d",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "2d75e077-f3de-489d-93d6-ce095f2717eb",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e1191efb-25c5-4171-9537-e3ab2a3baf2a",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "933d840d-7e9b-44ec-b449-6153ad9eec02",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "6ae600c7-f806-4dbc-955f-20c45261ee10",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ed836664-c941-45a4-aea7-b8504b566bac",
+    "data": [
+      {
+        "text": "@city:city @shopping:shopping @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7a92e0ee-36f9-48f3-9bf8-687b035d9c8f",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @shopping:shopping @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fc2a2b2c-f981-4cb1-b21c-c99dd57482dc",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @shopping:shopping @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "32d88d79-46ce-401d-a23e-2312105511cc",
+    "data": [
+      {
+        "text": "@city:city @shopping:shopping @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "067096ba-5498-4578-b2f0-baa2e5ef1087",
+    "data": [
+      {
+        "text": "@city:city @shopping:shopping @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "6b4f44d8-1400-432c-b371-88e3d8912658",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @shopping:shopping @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "82ed5beb-4e21-44ad-a3fe-0f6b62bcc7a2",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @shopping:shopping @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "a15de0e6-0487-4da4-b9b3-3effc8e93cd0",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @shopping:shopping @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8dc6b4e2-7133-49a8-8b33-94dfdf739824",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @shopping:shopping @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f4584809-7692-4cb6-97d3-45080e054774",
+    "data": [
+      {
+        "text": "@city:city @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9c1b8694-3a7c-4f2f-8848-83df35cb7e6d",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "85fa3072-be55-42ad-b2be-17d3a56f92e7",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @shopping:shopping @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5a1b8fb5-c111-414b-b68a-9582015df61e",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9ad36310-0cee-4548-8e8d-1187fa375aec",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "2919f1b5-367a-4528-ad72-82f09a4b5732",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "422f5700-7a0c-426b-b869-241c01e20b61",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8f3b7bac-010f-4803-b942-952cca8fcab7",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "dfcabce4-a591-4987-9c8f-598ef1350165",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "57971387-efcc-40e4-b482-ff99f2fcebc7",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "454b670d-9fbf-4bb5-822a-7bc11fa40c10",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8cee38cc-d287-43ec-8ba9-0ebae0ca2214",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "72ed03ab-549b-4763-b76b-123bbc818f46",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "30daec1c-2426-4201-bd05-911f3abbddb9",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "aaa44674-a0e4-4ce3-94fe-de7170d58bf7",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "77365d4c-55d2-4721-9cce-f46324791594",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "023e6acb-0e71-4fde-9c7a-bbffc3146b68",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @shopping:shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "46d112c2-cb7e-49a2-a09a-a031f47e9ad1",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "965bdae8-cc11-49b9-b3cd-8be6d7ab8146",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7320c638-7f5f-4b8b-91c1-f0d496077b84",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "045833a7-fa1b-4ea5-bf0a-6fa1e87e6cbc",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @shopping:shopping @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e2c55213-0770-4fd1-8b57-1527a3ed609c",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @shopping:shopping @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "66960e38-10cf-40a7-8649-fc315249cc89",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @shopping:shopping @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "dd6b2d45-978b-43d5-b4dd-fc9821afab10",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @shopping:shopping @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "323d49d5-e5d4-4a35-b48f-d2e925f7b20b",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @shopping:shopping @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "767e7ec0-f51f-4d79-89df-6ba29ac99fcb",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @shopping:shopping @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "b6065d0b-db0b-4230-8073-cbe7b71963b3",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9685d87d-7844-42f2-ab72-926112e43163",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @shopping:shopping @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "18020cff-6f25-46b1-b17c-fef4d770ddd4",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @shopping:shopping @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "89e1edf7-b7ef-4792-b415-3cd35db4d2c7",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @shopping:shopping @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9a30b65a-e7bd-43f8-9e87-13108908df6b",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @shopping:shopping @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "0ff06eaa-b154-460f-b9be-e7d308f5a022",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "8826720b-0e71-40c0-b931-149bf9521e9d",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9289089c-42d8-4125-be2e-c797b7853b24",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @shopping:shopping @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "3bc7bffd-fc11-4862-8ec4-14b131b64978",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5edd7ad4-9520-4c73-85a1-673d09e67919",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @shopping:shopping @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "446453fc-08a2-4236-aa01-b929e55251c3",
+    "data": [
+      {
+        "text": "@shopping:shopping @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ec9389d3-8d02-4fe3-b98d-c364f6964edf",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "00427366-79af-4853-9329-75de2189e3fe",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "c7eed951-0463-4d9e-b7c7-0d8bd41c97ed",
+    "data": [
+      {
+        "text": "@shopping:shopping @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "de276b30-711b-462d-ab79-56c224d10ab9",
+    "data": [
+      {
+        "text": "@shopping:shopping @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "4b9792d4-28e8-429a-84ee-cf9e15e7f281",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5b6e93f9-7a53-474c-9cd2-ac55eb09ec58",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "cd44056c-dc95-4f19-a1d0-273558d961d2",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5d4a413b-3d22-4b3f-862b-4c2151aa3b5e",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f7e825a2-c2c0-4bdb-b919-595c05eac52e",
+    "data": [
+      {
+        "text": "@shopping:shopping @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e7a19452-d883-4634-bf30-9062c29a4630",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "b1c0875f-c326-4792-8fee-644f9791093d",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "7b32aedc-487d-459c-93a8-42295909a390",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "85e625f4-91bf-4132-92e7-d0f2b74284f6",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "afd25f51-5ec8-4a57-a0b7-c6b36d78ad32",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "67661ca5-66cc-47a2-aa70-5cf6226c62db",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "a3d5915c-6063-4ccd-a5ef-29b4da0fb8bf",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "6fcc2f52-48df-47d9-a30d-0f3794b9dfd1",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "9236570a-a872-4901-8cc4-0bcbfce52b7e",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "e0b4f194-9ca0-42ed-9744-177292d1bae9",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "62c7ed7d-7069-43de-85aa-3f6407717f80",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "dab1df74-70ab-4382-83a7-8e7d254ae1a4",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f2ae218e-db2c-46ef-a080-05e0bef40771",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "667e2c9e-4172-4db7-a494-189b01e7d8b9",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "1d453b26-1990-45a7-a914-ce8bbec338af",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "ebd269fd-7cfa-4abb-9c79-5c45989b640b",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "5e302af7-99f6-4342-ac6a-2e9bfb34db90",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "fc5aa381-ffed-4477-a3c2-20c217b0a82d",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "282df798-acad-41d7-b93b-5f05109455f7",
+    "data": [
+      {
+        "text": "@shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  },
+  {
+    "id": "f71437ce-69c7-4c5d-9b8e-1814e6b53489",
+    "data": [
+      {
+        "text": "@sys.any:any @shopping:shopping @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785818
+  }
+]

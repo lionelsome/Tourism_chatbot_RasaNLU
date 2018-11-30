@@ -1,0 +1,508 @@
+{
+    "intent_errors": [
+        {
+            "text": "Find a place to book",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.2611551613030528
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find places to book",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.38575429763006447
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "check a place to book",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.14124100725781336
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "check places to book",
+            "intent_prediction": {
+                "name": "find.poi",
+                "confidence": 0.20747046160055696
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "I want to book a place to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.3383891976077682
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "I want to book a room to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.2768540362224679
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "show me places to stay",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.19791873050777622
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find a place to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.28079136524176573
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find places to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.37207540533036304
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "check place to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.24217392479939387
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "check places to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.2734196812246101
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find a room to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.32033474989375604
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find rooms to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.5738466170544765
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "check room to stay",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.28816438833579133
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "I want to sleep somewhere",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.1389039340308698
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find a place to sleep",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.1713778736621557
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "Find places to sleep",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.21481657063466583
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "check a place to sleep",
+            "intent_prediction": {
+                "name": "find.restaurant",
+                "confidence": 0.12798170265547285
+            },
+            "intent": "find.accommodation"
+        },
+        {
+            "text": "what is interesting in Nice on 14th August",
+            "intent_prediction": {
+                "name": "find.poi",
+                "confidence": 0.34317801008563953
+            },
+            "intent": "find.generic"
+        },
+        {
+            "text": "I want to visit something interesting",
+            "intent_prediction": {
+                "name": "discover.city",
+                "confidence": 0.22299640186992048
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I'm looking for sightseeing",
+            "intent_prediction": {
+                "name": "leave.positive",
+                "confidence": 0.2981287328006329
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "sightseeings",
+            "intent_prediction": {
+                "name": "insult",
+                "confidence": 0.5338390858713701
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I want to visit a monument",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.18147953476595383
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I want to do a sightseeing tour",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.2921672387923802
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I would like to do a sightseeing tour",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.29020662507994455
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I would like to visit a monument",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.14401428622027396
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I would like to visit any monuments",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.1807365060129464
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I want to visit the city",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.35476170377757515
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I would like to visit the city",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.2850906212968941
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "is there a cool place to visit ? ",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.15207342748934624
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "are there some cool places to visit ? ",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.16885524107300742
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "show me best places",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.23637844696502217
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I would like to do a walk",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.23054442710054884
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I want to do a walk",
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.3467782445656729
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I would like to do a hike",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.22650942216590728
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I want to do a hike",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.26433565513741625
+            },
+            "intent": "find.poi"
+        },
+        {
+            "text": "I wanna do shopping in Nice at 8 pm",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.18758446373960147
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "I wanna do shopping in December in Nice",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.17329010259725058
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "I wanna do shopping today in  Nice",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.1965843696134132
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "I wanna do shopping in Nice on 14th August",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.183954493318191
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "I wanna go out for shopping in Nice at 8 pm",
+            "intent_prediction": {
+                "name": "find.restaurant",
+                "confidence": 0.18451706984013327
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "I wanna go out for shopping in December in Nice",
+            "intent_prediction": {
+                "name": "find.restaurant",
+                "confidence": 0.21601704422354243
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "I wanna go out for shopping today in  Nice",
+            "intent_prediction": {
+                "name": "find.restaurant",
+                "confidence": 0.20215888490825454
+            },
+            "intent": "find.shopping"
+        },
+        {
+            "text": "Ok infact no",
+            "intent_prediction": {
+                "name": "abandon",
+                "confidence": 0.3629203840948946
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "not good",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.3990720650159026
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "not what i want",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.5111174179217061
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "not what i asked",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.46608033541093413
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "not interested",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.9343142453834166
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "I do not like this plan",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.25976799893960373
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "Not this plan",
+            "intent_prediction": {
+                "name": "abandon",
+                "confidence": 0.45150454846442645
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "it's bad",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.4839276178272568
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "nothing interesting",
+            "intent_prediction": {
+                "name": "discover.city",
+                "confidence": 0.46588807201357685
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "you only have that to propose to me?",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.28324721537282405
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "I'm bored",
+            "intent_prediction": {
+                "name": "find.activity",
+                "confidence": 0.6949786082239546
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "you really understand nothing",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.5917175840229115
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "why are you showing me this?",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.5566052530997498
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "Only these are there to display",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.6529399088145951
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "that's all ?",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.833259514602995
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "there is nothing",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.5211311920719245
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "What is that?",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.4512630094380187
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "that's not what I asked",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.6259147866689433
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "It's bad",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.4839276178272568
+            },
+            "intent": "leave.negative"
+        },
+        {
+            "text": "what is this proposal?",
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.22434758112852562
+            },
+            "intent": "leave.negative"
+        }
+    ]
+}

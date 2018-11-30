@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ee78b56a-956f-42fa-a43e-4ffb46a4b38d",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " like in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "1b978478-59e3-41de-92aa-8deca4855b6f",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cannes",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "046ee717-e0ea-4575-8f42-a432e96b0c1a",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather report",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "nextweek",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "313aab8f-a237-4b72-9e2d-0f7727da0a63",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "a2e321a3-9911-4066-b662-08a2d62ac361",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cannes",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "68759b8b-272e-4252-81af-cd3d8d350095",
+    "data": [
+      {
+        "text": "give me the  ",
+        "userDefined": false
+      },
+      {
+        "text": "weather report",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "nextweek",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "ec946291-9c75-4f3c-bcbe-8c089a3a963f",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "ec1d146e-ccdd-4ca1-8dc3-83d5c9ce820b",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Cannes",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "b2d864a8-de0e-4962-9f5e-50c549201cb3",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather report",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "nextweek",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "9b44f681-6168-4547-8dc0-dc56dfed4c41",
+    "data": [
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "7172c87d-2e27-4d33-a072-c0dbba555ba8",
+    "data": [
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cannes",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "06241974-ec0e-4710-9992-5f153e1b5ba7",
+    "data": [
+      {
+        "text": "weather report",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "nextweek",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "b624a0b1-1932-4ffe-b1b2-87c287052513",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " like in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "d8a642d2-6c86-473f-a08a-88090322e860",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cannes",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "45d85072-8cc9-46b4-9bd6-3f7e9f01df96",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "weather report",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "nextweek",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  },
+  {
+    "id": "5942aa82-b905-4133-ae84-6417aa76850e",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "weather",
+        "alias": "weather",
+        "meta": "@weather",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539786273
+  }
+]

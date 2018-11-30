@@ -1,0 +1,69 @@
+﻿slots:
+ city:
+   type: text
+ number:
+   type: text
+ address:
+   type: unfeaturized
+ opening_hours:
+   type: unfeaturized
+ 
+intents:
+ - Default Fallback Intent
+ - Default Welcome Intent
+ - discover.city
+ - find.accomodation
+ - find.activity
+ - find.address
+ - find.alternatives
+ - find.event
+ - find.generic
+ - find.more
+ - find.poi
+ - find.restaurant
+ - find.shopping
+ - insult
+ - leave.positive
+ - leave.positive
+ - weather
+ 
+
+entities:
+ - accomodation
+ - city
+ - event
+ - food
+ - localbusiness
+ - poi
+ - shopping
+ - sightseeing
+ - weather
+
+templates:
+	utter_handle_welcome:
+		- "Hi! My name is Minotour, I'm here to advice you on events, activities, sightseeing, accommodation, shopping or food."
+		- "Hi! I'm pleased to meet you! My name is Minotour :) what are you interested in? Events, activities, sightseeing, local stores, and restaurants for example."
+		- "Greetings! My name is Minotour and I'm here to advice on events, activities, places, local stores, and restaurants on the French Riviera!"
+
+	utter_handle_leave_pos:
+		- "See you later!"
+		- "Have a wonderful day and see you later!"
+		- "Ok it was a pleasure to chat with you! Come again for any tourist tips :)"
+
+	utter_handle_leave_neg:
+		- "Come on, don’t give up on me yet. I can still help, let’s start again"
+		- "Sorry, that’s all I had to offer, but we can still try again"
+		- "Wait, let’s give it another try"
+
+actions:
+  - utter_handle_welcome
+  - utter_handle_leave_pos
+  - utter_handle_leave_neg
+  - action_find_address
+  - action_find_restaurant
+  - action_discover_city
+  - action_find_event
+  - action_find_more
+  - action_find_poi
+  - action_find_alternative
+  

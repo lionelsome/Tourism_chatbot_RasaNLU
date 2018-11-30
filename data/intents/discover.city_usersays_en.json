@@ -1,0 +1,564 @@
+[
+  {
+    "id": "25ef26be-80bc-4a26-8c0f-b75153760424",
+    "data": [
+      {
+        "text": "tell me more about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "1985e47f-ba03-4f82-ae0c-f2a950a97956",
+    "data": [
+      {
+        "text": "discover ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "52bfc452-8e4f-4053-927e-7375ca1cc8f4",
+    "data": [
+      {
+        "text": "what can I know about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "cb8bb3fd-0aa5-48dd-bdcd-f42604a5ba46",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "bc94f659-ce3b-4d1a-bf52-e61472df48ac",
+    "data": [
+      {
+        "text": "what can you tell about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "91f694ba-f751-4cc0-937b-5a547a4a1424",
+    "data": [
+      {
+        "text": "I need to know something about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "2b294682-96c9-48d1-a4f8-89f6089b6f27",
+    "data": [
+      {
+        "text": "provide me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "54c8c4f2-95a4-421a-a4aa-2949754edd35",
+    "data": [
+      {
+        "text": "provide me information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "7e1597a4-9b37-4cf8-8aeb-1739d49debba",
+    "data": [
+      {
+        "text": "what do you know about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "bd1d1e55-a9ef-4336-88a7-a5248a483a3e",
+    "data": [
+      {
+        "text": "how beautiful is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "a7095eaf-8f3a-4051-9574-fa2e94e8cd87",
+    "data": [
+      {
+        "text": "what can I discover in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "aa126b26-cce0-4513-809e-184ff319c2f1",
+    "data": [
+      {
+        "text": "what can I discover about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "885f2f84-a969-41f5-a11d-3fc599c66771",
+    "data": [
+      {
+        "text": "find me some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "985710d3-b0bd-4a67-a3e2-5bac86029def",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "b124fc00-e952-4f63-9be8-ef3eb6d3c8ef",
+    "data": [
+      {
+        "text": "Tell about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "4feb116a-f440-41fb-9aae-f3fad8b244ea",
+    "data": [
+      {
+        "text": "what all can I  discover in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "978d6d5e-0f30-4c6a-a59a-9e9b594511dd",
+    "data": [
+      {
+        "text": "interesting facts about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "ff3d6e8f-a22e-4057-9f35-04d9b8fa61f9",
+    "data": [
+      {
+        "text": "interesting information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "495a5052-a577-4f94-8815-019fb48ab85f",
+    "data": [
+      {
+        "text": "interesting facts on ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "e75d288d-dc2a-42f0-afc3-756ad30ae2a7",
+    "data": [
+      {
+        "text": "interesting information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "f60c14b7-3b54-4c10-820c-2fc635852886",
+    "data": [
+      {
+        "text": "how is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "4a112b6d-33bd-4d92-905f-debca928fda3",
+    "data": [
+      {
+        "text": "what is there in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "f0f255cb-2d31-494b-8513-7d69b653c1c4",
+    "data": [
+      {
+        "text": "what can I find in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "670ae72a-c35a-4978-8915-1e8c2529a341",
+    "data": [
+      {
+        "text": "what can I see in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "70bd34b1-88b4-4ce6-8b85-4e3f90c90ae3",
+    "data": [
+      {
+        "text": "what is interesting in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "3a977ffc-2ee4-4616-a152-bd213a4e79cf",
+    "data": [
+      {
+        "text": "what is interesting to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "ea6bedcd-cea4-4382-939e-d7b3efda5149",
+    "data": [
+      {
+        "text": "do you know anything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "5d5fb039-7a7b-4664-a8f1-ecc139dac1f8",
+    "data": [
+      {
+        "text": "what is in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "90e2988e-63f0-4730-a295-5c7d72cf2a0b",
+    "data": [
+      {
+        "text": "do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "73c9d178-d55a-442f-a887-6c5b76280e94",
+    "data": [
+      {
+        "text": "what can you tell ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  },
+  {
+    "id": "78a6f121-2573-43ae-a9f1-4a70d075f6f4",
+    "data": [
+      {
+        "text": "show interesting facts in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785949
+  }
+]

@@ -1,0 +1,11 @@
+language: "en"
+
+pipeline:
+- name: "nlp_spacy"                   # loads the spacy language model
+- name: "tokenizer_spacy"             # splits the sentence into tokens
+- name: "ner_crf"                     # uses the pretrained spacy NER model
+- name: "intent_featurizer_spacy"     # creates sentence vector representations
+- name: "intent_classifier_sklearn"   # defines the classifier
+- name: "ner_duckling"                # uses duckling to parse the numbers
+  num_threads: 4
+##  dimensions: ['number']

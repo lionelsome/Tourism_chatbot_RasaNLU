@@ -1,0 +1,81 @@
+{
+  "id": "1184e4be-3808-4abd-9645-cb60d155f2ad",
+  "name": "find.shopping",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.shopping",
+      "affectedContexts": [
+        {
+          "name": "finding",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e78013a8-b85a-49ec-a59e-514d754040fe",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "8f99f096-e5e1-4f9d-b241-42d1777a15ed",
+          "required": true,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "17166f6a-bc5c-429e-913a-2bf59ecaa5d7",
+          "required": false,
+          "dataType": "@shopping",
+          "name": "shopping",
+          "value": "$shopping",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "90be2c11-7a62-4cb3-a1a1-3971e5333323",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "datetime",
+          "value": "$datetime",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785824,
+  "fallbackIntent": false,
+  "events": []
+}

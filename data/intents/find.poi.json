@@ -1,0 +1,81 @@
+{
+  "id": "808d8be5-e195-43bb-8815-7997397491f7",
+  "name": "find.poi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.poi",
+      "affectedContexts": [
+        {
+          "name": "finding",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f002f918-e3bf-42a4-8926-eeccfd82c90d",
+          "required": false,
+          "dataType": "@poi",
+          "name": "poi",
+          "value": "$poi",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "8ebd9e55-f537-4f7d-97a8-fde087eb184f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "bfb61d08-cdcc-42da-ae2d-61ad01b39167",
+          "required": true,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "b8518c9d-4082-4191-8634-0599744edb05",
+          "required": false,
+          "dataType": "@sightseeing",
+          "name": "sightseeing",
+          "value": "$sightseeing",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785886,
+  "fallbackIntent": false,
+  "events": []
+}

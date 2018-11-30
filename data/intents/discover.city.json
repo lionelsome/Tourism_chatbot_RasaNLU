@@ -1,0 +1,45 @@
+{
+  "id": "55a51601-0507-4188-b3c7-811076fedad2",
+  "name": "discover.city",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "discover.city",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30d2b699-df85-47e1-8a40-7a30d7f47a88",
+          "required": true,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785955,
+  "fallbackIntent": false,
+  "events": []
+}
