@@ -33,13 +33,14 @@ pip install rasa_nlu[tensorflow]
 ```
 
 * Train the Rasa NLU model
-```python -m rasa_nlu.train -c config.yml --data data/training_data.json -o models --project current --verbose```
+`python -m rasa_nlu.train -c config.yml --data data/training_data.json -o models --project current --verbose`
 where `config.yml` should be either spacy_config.yml or `tensorflow_config.yml` depending on the pipeline you want to use.<br>
 The folder `data` contains the training and test data set to use.<br>
 The model is stored under the directory `models/current/model_xxx_xxx` where xxx are the date and time.
 
 * To evaluate the model, you can use [Rasa NLU `evaluate`](https://rasa.com/docs/nlu/evaluation/) mode like this:<br>
-```python -m rasa_nlu.evaluate --data data/test_data.json \
+```
+python -m rasa_nlu.evaluate --data data/test_data.json \
        --confmat CONFMAT --histogram HISTOGRAM \   
        --model models/current/model_xxx-xxx
 ```
