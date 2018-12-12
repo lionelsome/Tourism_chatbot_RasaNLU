@@ -1,0 +1,319 @@
+[
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/chocolateshop",
+    "synonyms": [
+      "chocolate shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/outdoorsupplystore",
+    "synonyms": [
+      "outdoor supply store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/thriftvintagestore",
+    "synonyms": [
+      "thrift store",
+      "vintage store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/comicshop",
+    "synonyms": [
+      "comic shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/toygamestore",
+    "synonyms": [
+      "toy store",
+      "game store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/fishingstore",
+    "synonyms": [
+      "fishing store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/knittingstore",
+    "synonyms": [
+      "knitting store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/bikeshop",
+    "synonyms": [
+      "bike shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/souvenirshop",
+    "synonyms": [
+      "souvenir shop",
+      "souvenirs shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/diveshop",
+    "synonyms": [
+      "dive shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/distillery",
+    "synonyms": [
+      "distillery"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/adultboutique",
+    "synonyms": [
+      "adult boutique"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/clothingstore",
+    "synonyms": [
+      "clothing store",
+      "fashion"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/pawnshop",
+    "synonyms": [
+      "pawn shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/outletstore",
+    "synonyms": [
+      "outlet store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/motorcycleshop",
+    "synonyms": [
+      "motorcycle shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/shopservice",
+    "synonyms": [
+      "shop service",
+      "shop services"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/automotiveshop",
+    "synonyms": [
+      "automotive shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/flowershop",
+    "synonyms": [
+      "flower",
+      "flowers"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/antiqueshop",
+    "synonyms": [
+      "antique shop"
+    ]
+  },
+  {
+    "value": "SHOPPING",
+    "synonyms": [
+      "shoppings",
+      "shopping",
+      "shop",
+      "shops"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/mall",
+    "synonyms": [
+      "mall",
+      "malls"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/cardealership",
+    "synonyms": [
+      "car dealership"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/christmasmarket",
+    "synonyms": [
+      "christmas market"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/usedbookstore",
+    "synonyms": [
+      "used bookstore"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/recordshop",
+    "synonyms": [
+      "record shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/electronicsstore",
+    "synonyms": [
+      "electronics store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/winery",
+    "synonyms": [
+      "winery"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/musicstore",
+    "synonyms": [
+      "music store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/library",
+    "synonyms": [
+      "library"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/discountstore",
+    "synonyms": [
+      "discount store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/pop-upshop",
+    "synonyms": [
+      "pop-up shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/athleticssports",
+    "synonyms": [
+      "athletics and sports"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/bridalshop",
+    "synonyms": [
+      "bridal shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/perfumeshop",
+    "synonyms": [
+      "perfume shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/costumeshop",
+    "synonyms": [
+      "costume shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/giftshop",
+    "synonyms": [
+      "gift shop",
+      "gifts shops",
+      "gift shops",
+      "gifts shops"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/artscraftsstore",
+    "synonyms": [
+      "arts and crafts store",
+      "art store",
+      "arts store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/fireworksstore",
+    "synonyms": [
+      "fireworks store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/gunshop",
+    "synonyms": [
+      "gun shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/market",
+    "synonyms": [
+      "market",
+      "markets"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/sportinggoodsshop",
+    "synonyms": [
+      "sporting goods shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/bookstore",
+    "synonyms": [
+      "book store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/petstore",
+    "synonyms": [
+      "pet store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/cosmeticsshop",
+    "synonyms": [
+      "cosmetics"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/hobbyshop",
+    "synonyms": [
+      "hobby shop"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/videogamestore",
+    "synonyms": [
+      "video game store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/furniturehomestore",
+    "synonyms": [
+      "furniture store",
+      "home store"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/huntingsupply",
+    "synonyms": [
+      "hunting supply"
+    ]
+  },
+  {
+    "value": "Polygon reviera",
+    "synonyms": [
+      "Polygon reviera"
+    ]
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/island",
+    "synonyms": [
+      "island"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/forest",
+    "synonyms": [
+      "forest"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/nightmarket",
+    "synonyms": [
+      "night market"
+    ]
+  },
+  {
+    "value": "Chemin de Nietzsche",
+    "synonyms": [
+      "chemin de nietzsche"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/vineyard",
+    "synonyms": [
+      "vineyard"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/field",
+    "synonyms": [
+      "field"
+    ]
+  },
+  {
+    "value": "POI",
+    "synonyms": [
+      "sightseeing",
+      "sightseeings",
+      "hiking",
+      "hike",
+      "visit",
+      "visits",
+      "walk",
+      "walks",
+      "monument",
+      "monuments",
+      "places",
+      "place",
+      "city center",
+      "city\u0027s center",
+      "downtown",
+      "old town"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/historicsite",
+    "synonyms": [
+      "historic site"
+    ]
+  },
+  {
+    "value": "Boulevard gambetta",
+    "synonyms": [
+      "boulevard gambetta"
+    ]
+  },
+  {
+    "value": "Hyeres centre ville",
+    "synonyms": [
+      "hyeres centre ville"
+    ]
+  },
+  {
+    "value": "Boulevard de la Croisette",
+    "synonyms": [
+      "boulevard de la croisette"
+    ]
+  },
+  {
+    "value": "Impasse des Canaries",
+    "synonyms": [
+      "impasse des canaries"
+    ]
+  },
+  {
+    "value": "Forum Jacques Médecin",
+    "synonyms": [
+      "forum jacques médecin"
+    ]
+  },
+  {
+    "value": "Canal de Gairaut",
+    "synonyms": [
+      "canal de gairaut"
+    ]
+  },
+  {
+    "value": "Chateau Paquette",
+    "synonyms": [
+      "chateau paquette"
+    ]
+  },
+  {
+    "value": "Hauts De Vaugrenier 3e Lac",
+    "synonyms": [
+      "hauts de vaugrenier 3e lac"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/plaza",
+    "synonyms": [
+      "plaza"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/road",
+    "synonyms": [
+      "road"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/artgallery",
+    "synonyms": [
+      "art gallery",
+      "art tours",
+      "art excursion",
+      "art excursions",
+      "art tour",
+      "art visit",
+      "arts visit",
+      "art visits",
+      "arts visits"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/castle",
+    "synonyms": [
+      "castle"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/bridge",
+    "synonyms": [
+      "bridge"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/museum",
+    "synonyms": [
+      "museum"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/garden",
+    "synonyms": [
+      "garden"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/pier",
+    "synonyms": [
+      "pier"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/botanicalgarden",
+    "synonyms": [
+      "botanical garden"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/sculpturegarden",
+    "synonyms": [
+      "sculpture garden"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/fleamarket",
+    "synonyms": [
+      "flea market"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/mountain",
+    "synonyms": [
+      "mountain"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/farm",
+    "synonyms": [
+      "farm"
+    ]
+  },
+  {
+    "value": "Avenue Princesse Grace",
+    "synonyms": [
+      "avenue princesse grace"
+    ]
+  },
+  {
+    "value": "Cabris",
+    "synonyms": [
+      "cabris"
+    ]
+  },
+  {
+    "value": "Jardin Botanique",
+    "synonyms": [
+      "jardin botanique"
+    ]
+  },
+  {
+    "value": "Cimetière de Cimiez",
+    "synonyms": [
+      "cimetière de cimiez"
+    ]
+  },
+  {
+    "value": "Evolution 2",
+    "synonyms": [
+      "evolution 2"
+    ]
+  },
+  {
+    "value": "fort freinet",
+    "synonyms": [
+      "fort freinet"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/building",
+    "synonyms": [
+      "building"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/landmark",
+    "synonyms": [
+      "landmark"
+    ]
+  },
+  {
+    "value": "Jardin botanique de Nice",
+    "synonyms": [
+      "jardin botanique de nice"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/pedestrianplaza",
+    "synonyms": [
+      "pedestrian plaza"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/beach",
+    "synonyms": [
+      "beach"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/othergreatoutdoors",
+    "synonyms": [
+      "other great outdoors"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/naturepreserve",
+    "synonyms": [
+      "nature preserve"
+    ]
+  },
+  {
+    "value": "Boulodrôme de Sainte-Maxime",
+    "synonyms": [
+      "boulodrôme de sainte-maxime"
+    ]
+  },
+  {
+    "value": "Centre ville",
+    "synonyms": [
+      "centre ville"
+    ]
+  },
+  {
+    "value": "Koi Zen",
+    "synonyms": [
+      "koi zen"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/lake",
+    "synonyms": [
+      "lake"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/street",
+    "synonyms": [
+      "street"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/river",
+    "synonyms": [
+      "river"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/park",
+    "synonyms": [
+      "park"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/streetfair",
+    "synonyms": [
+      "street fair"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/cemetery",
+    "synonyms": [
+      "cemetery"
+    ]
+  },
+  {
+    "value": "Col De Tende",
+    "synonyms": [
+      "col de tende"
+    ]
+  },
+  {
+    "value": "Cours Saleya",
+    "synonyms": [
+      "cours saleya"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/volcano",
+    "synonyms": [
+      "volcano"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/stadium",
+    "synonyms": [
+      "stadium"
+    ]
+  },
+  {
+    "value": "Boulevard de Cimiez",
+    "synonyms": [
+      "boulevard de cimiez"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/church",
+    "synonyms": [
+      "church"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/lighthouse",
+    "synonyms": [
+      "lighthouse"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/tree",
+    "synonyms": [
+      "tree"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/trail",
+    "synonyms": [
+      "trail"
+    ]
+  },
+  {
+    "value": "http://data.linkedevents.org/kos/3cixty/nationalpark",
+    "synonyms": [
+      "national park"
+    ]
+  },
+  {
+    "value": "Arboretum de Roure Marcel Kroenlein",
+    "synonyms": [
+      "arboretum de roure marcel kroenlein"
+    ]
+  },
+  {
+    "value": "Château d\u0027Entrecasteaux",
+    "synonyms": [
+      "château d\u0027entrecasteaux"
+    ]
+  },
+  {
+    "value": "Domaine du Rayol",
+    "synonyms": [
+      "domaine du rayol"
+    ]
+  },
+  {
+    "value": "Place Centrale",
+    "synonyms": [
+      "place centrale"
+    ]
+  },
+  {
+    "value": "La Place Massillon",
+    "synonyms": [
+      "la place massillon"
+    ]
+  },
+  {
+    "value": "Le Jardin exotique",
+    "synonyms": [
+      "le jardin exotique"
+    ]
+  },
+  {
+    "value": "Lac Le Broc Carros",
+    "synonyms": [
+      "lac le broc carros"
+    ]
+  },
+  {
+    "value": "Maison de Renoir - Les Collettes",
+    "synonyms": [
+      "maison de renoir - les collettes"
+    ]
+  },
+  {
+    "value": "Place des Moulins",
+    "synonyms": [
+      "place des moulins"
+    ]
+  },
+  {
+    "value": "Place du chateau",
+    "synonyms": [
+      "place du chateau"
+    ]
+  },
+  {
+    "value": "Place du Général de Gaulle",
+    "synonyms": [
+      "place du général de gaulle"
+    ]
+  },
+  {
+    "value": "Places des Lices",
+    "synonyms": [
+      "places des lices"
+    ]
+  },
+  {
+    "value": "Place Joseph Bermond",
+    "synonyms": [
+      "place joseph bermond"
+    ]
+  },
+  {
+    "value": "Place du Grand Jardin",
+    "synonyms": [
+      "place du grand jardin"
+    ]
+  },
+  {
+    "value": "La Pinède Gould",
+    "synonyms": [
+      "la pinède gould"
+    ]
+  },
+  {
+    "value": "Les Moulins",
+    "synonyms": [
+      "les moulins"
+    ]
+  },
+  {
+    "value": "Parc du Castel des deux rois",
+    "synonyms": [
+      "parc du castel des deux rois"
+    ]
+  },
+  {
+    "value": "Route d\u0027Aspremont",
+    "synonyms": [
+      "route d\u0027aspremont"
+    ]
+  },
+  {
+    "value": "Saint vallier de thiey",
+    "synonyms": [
+      "saint vallier de thiey"
+    ]
+  },
+  {
+    "value": "Tour de l\u0027Horloge, Tourrettes",
+    "synonyms": [
+      "tour de l\u0027horloge",
+      "tourrettes"
+    ]
+  },
+  {
+    "value": "La Tour des Templiers",
+    "synonyms": [
+      "la tour des templiers"
+    ]
+  },
+  {
+    "value": "La Place aux Herbes.",
+    "synonyms": [
+      "la place aux herbes."
+    ]
+  },
+  {
+    "value": "Mont chauve d\u0027Aspremont",
+    "synonyms": [
+      "mont chauve d\u0027aspremont"
+    ]
+  },
+  {
+    "value": "Parc National du Mercantour",
+    "synonyms": [
+      "parc national du mercantour"
+    ]
+  },
+  {
+    "value": "Parc Phœnix",
+    "synonyms": [
+      "parc phœnix"
+    ]
+  },
+  {
+    "value": "Phare de la Garoupe",
+    "synonyms": [
+      "phare de la garoupe"
+    ]
+  },
+  {
+    "value": "Place Garibaldi",
+    "synonyms": [
+      "place garibaldi"
+    ]
+  },
+  {
+    "value": "Place Masséna",
+    "synonyms": [
+      "place masséna"
+    ]
+  },
+  {
+    "value": "Villa La Leopolda",
+    "synonyms": [
+      "villa la leopolda"
+    ]
+  },
+  {
+    "value": "La Californie",
+    "synonyms": [
+      "la californie"
+    ]
+  },
+  {
+    "value": "Place du Casino",
+    "synonyms": [
+      "place du casino"
+    ]
+  },
+  {
+    "value": "Lac de Saint-Cassien",
+    "synonyms": [
+      "lac de saint-cassien"
+    ]
+  },
+  {
+    "value": "Place de la Castre",
+    "synonyms": [
+      "place de la castre"
+    ]
+  },
+  {
+    "value": "Place Guynemer",
+    "synonyms": [
+      "place guynemer"
+    ]
+  },
+  {
+    "value": "La Placette",
+    "synonyms": [
+      "la placette"
+    ]
+  },
+  {
+    "value": "Port de Porquerolles",
+    "synonyms": [
+      "port de porquerolles"
+    ]
+  },
+  {
+    "value": "Zone Pietonne",
+    "synonyms": [
+      "zone pietonne"
+    ]
+  },
+  {
+    "value": "l\u0027étang de fontmerle",
+    "synonyms": [
+      "l\u0027étang de fontmerle"
+    ]
+  },
+  {
+    "value": "Place d\u0027Armes",
+    "synonyms": [
+      "place d\u0027armes"
+    ]
+  },
+  {
+    "value": "Place Marinoni",
+    "synonyms": [
+      "place marinoni"
+    ]
+  },
+  {
+    "value": "Pute Borme",
+    "synonyms": [
+      "pute borme"
+    ]
+  },
+  {
+    "value": "Quai des États-Unis",
+    "synonyms": [
+      "quai des états-unis"
+    ]
+  },
+  {
+    "value": "Rue Paradis",
+    "synonyms": [
+      "rue paradis"
+    ]
+  },
+  {
+    "value": "Place Ernest Reyer",
+    "synonyms": [
+      "place ernest reyer"
+    ]
+  },
+  {
+    "value": "Place Pierre Gautier",
+    "synonyms": [
+      "place pierre gautier"
+    ]
+  },
+  {
+    "value": "Rue Masséna",
+    "synonyms": [
+      "rue masséna"
+    ]
+  },
+  {
+    "value": "Place de la Croix de Marbre",
+    "synonyms": [
+      "place de la croix de marbre"
+    ]
+  },
+  {
+    "value": "Place Des Anciens Combattants",
+    "synonyms": [
+      "place des anciens combattants"
+    ]
+  },
+  {
+    "value": "Place Rossetti",
+    "synonyms": [
+      "place rossetti"
+    ]
+  },
+  {
+    "value": "Point de départ de mon jogging",
+    "synonyms": [
+      "point de départ de mon jogging"
+    ]
+  },
+  {
+    "value": "Rue de France",
+    "synonyms": [
+      "rue de france"
+    ]
+  },
+  {
+    "value": "Rue Obscure",
+    "synonyms": [
+      "rue obscure"
+    ]
+  },
+  {
+    "value": "Lac De Thorenc",
+    "synonyms": [
+      "lac de thorenc"
+    ]
+  },
+  {
+    "value": "Rue Grimaldi",
+    "synonyms": [
+      "rue grimaldi"
+    ]
+  },
+  {
+    "value": "Place Neuve",
+    "synonyms": [
+      "place neuve"
+    ]
+  },
+  {
+    "value": "Moyenne Corniche",
+    "synonyms": [
+      "moyenne corniche"
+    ]
+  },
+  {
+    "value": "Palais Rusca",
+    "synonyms": [
+      "palais rusca"
+    ]
+  },
+  {
+    "value": "Parking Masséna",
+    "synonyms": [
+      "parking masséna"
+    ]
+  },
+  {
+    "value": "Place Jacques Toja",
+    "synonyms": [
+      "place jacques toja"
+    ]
+  },
+  {
+    "value": "Place Pierre Coullet",
+    "synonyms": [
+      "place pierre coullet"
+    ]
+  },
+  {
+    "value": "La Pinède",
+    "synonyms": [
+      "la pinède"
+    ]
+  },
+  {
+    "value": "Le Château",
+    "synonyms": [
+      "le château"
+    ]
+  },
+  {
+    "value": "Place De Gaulle",
+    "synonyms": [
+      "place de gaulle"
+    ]
+  },
+  {
+    "value": "Place des Lices",
+    "synonyms": [
+      "place des lices"
+    ]
+  },
+  {
+    "value": "Rue du Commandant Andre",
+    "synonyms": [
+      "rue du commandant andre"
+    ]
+  },
+  {
+    "value": "Place du Revely",
+    "synonyms": [
+      "place du revely"
+    ]
+  },
+  {
+    "value": "Place Toselli",
+    "synonyms": [
+      "place toselli"
+    ]
+  },
+  {
+    "value": "Port de La Tour Fondue",
+    "synonyms": [
+      "port de la tour fondue"
+    ]
+  },
+  {
+    "value": "Rue Arson",
+    "synonyms": [
+      "rue arson"
+    ]
+  },
+  {
+    "value": "Rue Du Pavillon",
+    "synonyms": [
+      "rue du pavillon"
+    ]
+  },
+  {
+    "value": "Rue Meynadier",
+    "synonyms": [
+      "rue meynadier"
+    ]
+  },
+  {
+    "value": "Lac de Thorenc",
+    "synonyms": [
+      "lac de thorenc"
+    ]
+  },
+  {
+    "value": "Phare du Cap d\u0027Arme",
+    "synonyms": [
+      "phare du cap d\u0027arme"
+    ]
+  },
+  {
+    "value": "Place G. et A. Durville",
+    "synonyms": [
+      "place g. et a. durville"
+    ]
+  },
+  {
+    "value": "Rue Meyerbeer",
+    "synonyms": [
+      "rue meyerbeer"
+    ]
+  },
+  {
+    "value": "Place de l\u0027Ormeau",
+    "synonyms": [
+      "place de l\u0027ormeau"
+    ]
+  },
+  {
+    "value": "Rue Bonaparte",
+    "synonyms": [
+      "rue bonaparte"
+    ]
+  }
+]

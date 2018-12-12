@@ -1,0 +1,106 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "Search local services and shops",
+  "examples": "User: I need a car dealership with good reviews.\nUser: And a car wash as well.\nUser: Which one is open?\n\nUser: I\u0027m looking for a beauty salon with Wi-Fi and parking.\nUser: How about spa?\nUser: Show the cheapest and closest.\n\nUser: Where is the best shop to buy glasses?\nUser: In San Francisco.\nUser: Filter for closest.\nUser: Show only open.",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "minotour-4c09e",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "e6a15efe-9640-46f9-9ced-797d3ef1ff3e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0eb5210d-4973-47fc-99ce-10b6c54d66a8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "29d1e8ba-82a0-423b-a384-901d4549cc79",
+        "signInRequired": false
+      },
+      {
+        "intentId": "55a51601-0507-4188-b3c7-811076fedad2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1184e4be-3808-4abd-9645-cb60d155f2ad",
+        "signInRequired": false
+      },
+      {
+        "intentId": "785a4cc9-ba13-433b-8710-23b353194d14",
+        "signInRequired": false
+      },
+      {
+        "intentId": "808d8be5-e195-43bb-8815-7997397491f7",
+        "signInRequired": false
+      },
+      {
+        "intentId": "91f28d47-77c4-4e70-9726-4820c435e5c3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "40950251-243c-4bf0-9952-716dd17988ff",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1f151e34-a9f3-43e4-ba35-386a7ffed5c8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6cac8718-9659-4d11-b603-595a4a582c62",
+        "signInRequired": false
+      },
+      {
+        "intentId": "eb54f5c3-44dc-41f3-b126-221ecac709c5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c9ccbb53-1a0c-4bc7-bce5-95c0cad3b47e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "33c39aea-2ddf-4cf9-9fd3-d0e2ecb0f28d",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "40950251-243c-4bf0-9952-716dd17988ff"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Kaliningrad",
+  "webhook": {
+    "url": "https://26482777.ngrok.io/assistant/receive",
+    "headers": {
+      "": ""
+    },
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "fr"
+  ],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,100 @@
+{
+    "intent_errors": [
+        {
+            "intent_prediction": {
+                "name": "find.event",
+                "confidence": 0.8255423765870057
+            },
+            "text": "Is there anything happening on 14th August in Nice",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.event",
+                "confidence": 0.7339982599178839
+            },
+            "text": "Is there anything happening in December in Nice",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.5868742660555799
+            },
+            "text": "what can I see on 14th August in Nice",
+            "intent": "find.poi"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.positive",
+                "confidence": 0.30727492824571223
+            },
+            "text": "thanks for nothing",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.3194967371681583
+            },
+            "text": "I do not like this plan",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.3806877290257325
+            },
+            "text": "Can I see something else",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.3735733684075064
+            },
+            "text": "hate this results find something else",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.accommodation",
+                "confidence": 0.6421304065910912
+            },
+            "text": "or @city:city",
+            "intent": "find.alternatives"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.22686532279753993
+            },
+            "text": "redo",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.4516449769149058
+            },
+            "text": "enough for today",
+            "intent": "leave.positive"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.45545531050855775
+            },
+            "text": "tell me more about Nice",
+            "intent": "discover.city"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.1677656543847717
+            },
+            "text": "give me the  weather report in Nice on nextweek",
+            "intent": "weather"
+        }
+    ]
+}

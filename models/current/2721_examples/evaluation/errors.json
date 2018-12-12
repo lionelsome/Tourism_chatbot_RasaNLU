@@ -1,0 +1,196 @@
+{
+    "intent_errors": [
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.7635862827301025
+            },
+            "text": "what information do you have",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.5772662162780762
+            },
+            "text": "advise me ",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.4442163109779358
+            },
+            "text": "how helpful can you be",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.9119696021080017
+            },
+            "text": "Is there anything happening today Nice",
+            "intent": "find.event"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.9626142382621765
+            },
+            "text": "what do you want me to do on 14th August in Nice",
+            "intent": "find.activity"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.3852425813674927
+            },
+            "text": "today in  Nice",
+            "intent": "find.shopping"
+        },
+        {
+            "intent_prediction": {
+                "name": "abandon",
+                "confidence": 0.7152148485183716
+            },
+            "text": "nothing interesting",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "abandon",
+                "confidence": 0.8635590672492981
+            },
+            "text": "nothing to do",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.7718811631202698
+            },
+            "text": "Fuck off",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.8727202415466309
+            },
+            "text": "go to hell",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.8727202415466309
+            },
+            "text": "Go to hell",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.7718811631202698
+            },
+            "text": "fuck off",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Arsehole",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.7415637373924255
+            },
+            "text": "that's all you have in you",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "Default Welcome Intent",
+                "confidence": 0.6740420460700989
+            },
+            "text": "there is not much there",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "insult",
+                "confidence": 0.6357848644256592
+            },
+            "text": "keep looking",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.9000310897827148
+            },
+            "text": "that's all you have?",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.5454174876213074
+            },
+            "text": "it's weak",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "redo",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.7723671793937683
+            },
+            "text": "change of plans",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "abort",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "restart",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.address",
+                "confidence": 0.42267972230911255
+            },
+            "text": "enough for today",
+            "intent": "leave.positive"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.7010008096694946
+            },
+            "text": "what can I find in Nice",
+            "intent": "discover.city"
+        }
+    ]
+}

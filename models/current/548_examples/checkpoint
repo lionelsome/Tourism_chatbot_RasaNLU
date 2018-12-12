@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lsome/./models/current/548_examples/default/model_20181212-170133/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/lsome/./models/current/548_examples/default/model_20181212-170133/intent_classifier_tensorflow_embedding.ckpt"

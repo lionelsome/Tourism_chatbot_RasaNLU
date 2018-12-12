@@ -1,0 +1,71 @@
+{
+  "id": "1f151e34-a9f3-43e4-ba35-386a7ffed5c8",
+  "name": "find.accommodation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.accommodation",
+      "affectedContexts": [
+        {
+          "name": "finding",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d3013755-3883-4a1e-8393-fba96ffad56c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "b839c999-509b-47ba-96a4-a52b731c90b2",
+          "required": true,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "a48467a0-812c-48e0-98d4-db8653b5dba8",
+          "required": false,
+          "dataType": "@accommodation",
+          "name": "accommodation",
+          "value": "$accommodation",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I wanna stay"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785869,
+  "fallbackIntent": false,
+  "events": []
+}

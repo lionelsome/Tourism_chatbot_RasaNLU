@@ -1,0 +1,116 @@
+{
+    "intent_errors": [
+        {
+            "intent_prediction": {
+                "confidence": 0.9731639623641968,
+                "name": "find.event"
+            },
+            "text": "Is there anything happening on 14th August in Nice",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.7411612272262573,
+                "name": "find.generic"
+            },
+            "text": "I want to do a sightseeing tour",
+            "intent": "find.poi"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.6584992408752441,
+                "name": "find.generic"
+            },
+            "text": "I would like to do a sightseeing tour",
+            "intent": "find.poi"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.6650698184967041,
+                "name": "discover.city"
+            },
+            "text": "what can I see on 14th August in Nice",
+            "intent": "find.poi"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.6798186898231506,
+                "name": "insult"
+            },
+            "text": "fine I'm leaving now",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.879397988319397,
+                "name": "find.generic"
+            },
+            "text": "I do not like this plan",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.0,
+                "name": ""
+            },
+            "text": "Arsehole",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.0,
+                "name": ""
+            },
+            "text": "shut up",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.0,
+                "name": ""
+            },
+            "text": "Bitch",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.7469770908355713,
+                "name": "find.poi"
+            },
+            "text": "Can I see something else",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.0,
+                "name": ""
+            },
+            "text": "redo",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.7315210700035095,
+                "name": "leave.negative"
+            },
+            "text": "enough for today",
+            "intent": "leave.positive"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.6107592582702637,
+                "name": "find.more"
+            },
+            "text": "tell me more about Nice",
+            "intent": "discover.city"
+        },
+        {
+            "intent_prediction": {
+                "confidence": 0.0,
+                "name": ""
+            },
+            "text": "hello",
+            "intent": "Default Welcome Intent"
+        }
+    ]
+}

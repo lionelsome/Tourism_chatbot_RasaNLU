@@ -1,0 +1,1612 @@
+[
+  {
+    "value": "NEAR_ME",
+    "synonyms": [
+      "around",
+      "here by",
+      "here",
+      "near",
+      "near me",
+      "nearby",
+      "close",
+      "close by",
+      "close to me",
+      "closest",
+      "not far away",
+      "within reach",
+      "at hand",
+      "a short distance away",
+      "round the corner",
+      "next to me",
+      "next street",
+      "around me",
+      "in my street",
+      "in my area",
+      "near my hotel",
+      "near my house",
+      "close to my hotel",
+      "close to my house"
+    ]
+  },
+  {
+    "value": "Andon",
+    "synonyms": [
+      "Andon"
+    ]
+  },
+  {
+    "value": "Aiglun",
+    "synonyms": [
+      "Aiglun"
+    ]
+  },
+  {
+    "value": "Bargemon",
+    "synonyms": [
+      "Bargemon"
+    ]
+  },
+  {
+    "value": "Aspremont",
+    "synonyms": [
+      "Aspremont"
+    ]
+  },
+  {
+    "value": "Beausoleil",
+    "synonyms": [
+      "Beausoleil"
+    ]
+  },
+  {
+    "value": "Auribeau-sur-Siagne",
+    "synonyms": [
+      "Auribeau-sur-Siagne",
+      "Auribeau sur Siagne"
+    ]
+  },
+  {
+    "value": "Cannes",
+    "synonyms": [
+      "Cannes"
+    ]
+  },
+  {
+    "value": "Contes",
+    "synonyms": [
+      "Contes"
+    ]
+  },
+  {
+    "value": "Antibes",
+    "synonyms": [
+      "Antibes",
+      "Antibes Juan les pins",
+      "Juan-les-Pins",
+      "Juan les pins",
+      "Antibes Juan-les-Pins"
+    ]
+  },
+  {
+    "value": "Ascros",
+    "synonyms": [
+      "Ascros"
+    ]
+  },
+  {
+    "value": "Bagnols-en-Forêt",
+    "synonyms": [
+      "Bagnols-en-Forêt",
+      "Bagnols en Forêt",
+      "Bagnols-en-Foret",
+      "Bagnols en Foret"
+    ]
+  },
+  {
+    "value": "Blausasc",
+    "synonyms": [
+      "Blausasc"
+    ]
+  },
+  {
+    "value": "Beuil",
+    "synonyms": [
+      "Beuil"
+    ]
+  },
+  {
+    "value": "Bormes-les-Mimosas",
+    "synonyms": [
+      "Bormes-les-Mimosas",
+      "Bormes les Mimosas"
+    ]
+  },
+  {
+    "value": "Cavalaire",
+    "synonyms": [
+      "Cavalaire"
+    ]
+  },
+  {
+    "value": "Cantaron",
+    "synonyms": [
+      "Cantaron"
+    ]
+  },
+  {
+    "value": "Coaraze",
+    "synonyms": [
+      "Coaraze"
+    ]
+  },
+  {
+    "value": "Bézaudun-les-Alpes",
+    "synonyms": [
+      "Bézaudun-les-Alpes",
+      "Bézaudun les Alpes",
+      "Bezaudun les Alpes",
+      "Bezaudun-les-Alpes"
+    ]
+  },
+  {
+    "value": "Bouyon",
+    "synonyms": [
+      "Bouyon"
+    ]
+  },
+  {
+    "value": "Cap-d\u0027Ail",
+    "synonyms": [
+      "Cap-d\u0027Ail",
+      "Cap d\u0027Ail"
+    ]
+  },
+  {
+    "value": "Cogolin",
+    "synonyms": [
+      "Cogolin"
+    ]
+  },
+  {
+    "value": "Bairols",
+    "synonyms": [
+      "Bairols"
+    ]
+  },
+  {
+    "value": "Cagnes-sur-Mer",
+    "synonyms": [
+      "Cagnes-sur-Mer",
+      "Cagnes sur Mer"
+    ]
+  },
+  {
+    "value": "Cipières",
+    "synonyms": [
+      "Cipières",
+      "Cipieres"
+    ]
+  },
+  {
+    "value": "Colomars",
+    "synonyms": [
+      "Colomars"
+    ]
+  },
+  {
+    "value": "Bonson",
+    "synonyms": [
+      "Bonson"
+    ]
+  },
+  {
+    "value": "Belvédère",
+    "synonyms": [
+      "Belvédère",
+      "Belvedere"
+    ]
+  },
+  {
+    "value": "Carros",
+    "synonyms": [
+      "Carros"
+    ]
+  },
+  {
+    "value": "Cotignac",
+    "synonyms": [
+      "Cotignac"
+    ]
+  },
+  {
+    "value": "Castellar",
+    "synonyms": [
+      "Castellar"
+    ]
+  },
+  {
+    "value": "Auvare",
+    "synonyms": [
+      "Auvare"
+    ]
+  },
+  {
+    "value": "Amirat",
+    "synonyms": [
+      "Amirat"
+    ]
+  },
+  {
+    "value": "Collobrières",
+    "synonyms": [
+      "Collobrières",
+      "Collobrieres"
+    ]
+  },
+  {
+    "value": "Châteaudouble",
+    "synonyms": [
+      "Châteaudouble",
+      "Chateaudouble"
+    ]
+  },
+  {
+    "value": "Conségudes",
+    "synonyms": [
+      "Conségudes",
+      "Consegudes"
+    ]
+  },
+  {
+    "value": "Clans",
+    "synonyms": [
+      "Clans"
+    ]
+  },
+  {
+    "value": "Auron",
+    "synonyms": [
+      "Auron"
+    ]
+  },
+  {
+    "value": "Bendejun",
+    "synonyms": [
+      "Bendejun"
+    ]
+  },
+  {
+    "value": "Callian",
+    "synonyms": [
+      "Callian"
+    ]
+  },
+  {
+    "value": "Caussols",
+    "synonyms": [
+      "Caussols"
+    ]
+  },
+  {
+    "value": "Aups",
+    "synonyms": [
+      "Aups"
+    ]
+  },
+  {
+    "value": "Breil-sur-Roya",
+    "synonyms": [
+      "Breil-sur-Roya",
+      "Breil sur Roya"
+    ]
+  },
+  {
+    "value": "Castillon",
+    "synonyms": [
+      "Castillon"
+    ]
+  },
+  {
+    "value": "Claviers",
+    "synonyms": [
+      "Claviers"
+    ]
+  },
+  {
+    "value": "Collongues",
+    "synonyms": [
+      "Collongues"
+    ]
+  },
+  {
+    "value": "Draguignan",
+    "synonyms": [
+      "Draguignan"
+    ]
+  },
+  {
+    "value": "Courmes",
+    "synonyms": [
+      "Courmes"
+    ]
+  },
+  {
+    "value": "Châteauneuf-Grasse",
+    "synonyms": [
+      "Châteauneuf-Grasse",
+      "Châteauneuf Grasse",
+      "Chateauneuf-Grasse",
+      "Chateauneuf Grasse"
+    ]
+  },
+  {
+    "value": "Châteauneuf-Villevieille",
+    "synonyms": [
+      "Châteauneuf-Villevieille",
+      "Châteauneuf Villevieille",
+      "Chateauneuf-Villevieille",
+      "Chsteauneuf Villevieille"
+    ]
+  },
+  {
+    "value": "Cuébris",
+    "synonyms": [
+      "Cuébris",
+      "Cuebris"
+    ]
+  },
+  {
+    "value": "Daluis",
+    "synonyms": [
+      "Daluis"
+    ]
+  },
+  {
+    "value": "Duranus",
+    "synonyms": [
+      "Duranus"
+    ]
+  },
+  {
+    "value": "Briançonnet",
+    "synonyms": [
+      "Briançonnet",
+      "Brianconnet"
+    ]
+  },
+  {
+    "value": "Caille",
+    "synonyms": [
+      "Caille"
+    ]
+  },
+  {
+    "value": "Châteauneuf-d\u0027Entraunes",
+    "synonyms": [
+      "Châteauneuf-d\u0027Entraunes",
+      "Chateauneuf-d Entraunes",
+      "Chateauneuf d Entraunes"
+    ]
+  },
+  {
+    "value": "Coursegoules",
+    "synonyms": [
+      "Coursegoules"
+    ]
+  },
+  {
+    "value": "Drap",
+    "synonyms": [
+      "Drap"
+    ]
+  },
+  {
+    "value": "Berre-les-Alpes",
+    "synonyms": [
+      "Berre-les-Alpes",
+      "Berre les Alpes"
+    ]
+  },
+  {
+    "value": "Cabris",
+    "synonyms": [
+      "Cabris"
+    ]
+  },
+  {
+    "value": "Beaulieu-sur-Mer",
+    "synonyms": [
+      "Beaulieu-sur-Mer",
+      "Beaulieu sur Mer"
+    ]
+  },
+  {
+    "value": "Biot",
+    "synonyms": [
+      "Biot"
+    ]
+  },
+  {
+    "value": "Callas",
+    "synonyms": [
+      "Callas"
+    ]
+  },
+  {
+    "value": "Castagniers",
+    "synonyms": [
+      "Castagniers"
+    ]
+  },
+  {
+    "value": "Èze",
+    "synonyms": [
+      "Èze",
+      "Eze"
+    ]
+  },
+  {
+    "value": "Grasse",
+    "synonyms": [
+      "Grasse"
+    ]
+  },
+  {
+    "value": "Ilonse",
+    "synonyms": [
+      "Ilonse"
+    ]
+  },
+  {
+    "value": "Entrecasteaux",
+    "synonyms": [
+      "Entrecasteaux"
+    ]
+  },
+  {
+    "value": "La Trinité",
+    "synonyms": [
+      "La Trinité",
+      "La Trinite"
+    ]
+  },
+  {
+    "value": "Le Rouret",
+    "synonyms": [
+      "Le Rouret"
+    ]
+  },
+  {
+    "value": "Lucéram",
+    "synonyms": [
+      "Lucéram",
+      "Luceram"
+    ]
+  },
+  {
+    "value": "Entraunes",
+    "synonyms": [
+      "Entraunes"
+    ]
+  },
+  {
+    "value": "Gréolières",
+    "synonyms": [
+      "Gréolières",
+      "Greolieres"
+    ]
+  },
+  {
+    "value": "Le Muy",
+    "synonyms": [
+      "Le Muy"
+    ]
+  },
+  {
+    "value": "Les Ferres",
+    "synonyms": [
+      "Les Ferres"
+    ]
+  },
+  {
+    "value": "Le Cannet-des-Maures",
+    "synonyms": [
+      "Le Cannet-des-Maures",
+      "Cannet-des-Maures",
+      "Cannet des Maures",
+      "Le Cannet des Maures"
+    ]
+  },
+  {
+    "value": "Figanières",
+    "synonyms": [
+      "Figanières",
+      "Figanieres"
+    ]
+  },
+  {
+    "value": "Guillaumes",
+    "synonyms": [
+      "Guillaumes"
+    ]
+  },
+  {
+    "value": "La Turbie",
+    "synonyms": [
+      "La Turbie"
+    ]
+  },
+  {
+    "value": "Les Arcs",
+    "synonyms": [
+      "Les Arcs"
+    ]
+  },
+  {
+    "value": "Lieuche",
+    "synonyms": [
+      "Lieuche"
+    ]
+  },
+  {
+    "value": "La Roque-Esclapon",
+    "synonyms": [
+      "La Roque-Esclapon",
+      "La Roque Esclapon",
+      "Roque Esclapon"
+    ]
+  },
+  {
+    "value": "La Brigue",
+    "synonyms": [
+      "La Brigue"
+    ]
+  },
+  {
+    "value": "La Croix-sur-Roudoule",
+    "synonyms": [
+      "La Croix-sur-Roudoule",
+      "Croix-sur-Roudoule",
+      "La Croix sur Roudoule"
+    ]
+  },
+  {
+    "value": "Levens",
+    "synonyms": [
+      "Levens"
+    ]
+  },
+  {
+    "value": "Escragnolles",
+    "synonyms": [
+      "Escragnolles"
+    ]
+  },
+  {
+    "value": "La Garde-Freinet",
+    "synonyms": [
+      "La Garde-Freinet",
+      "Garde-Freinet",
+      "La Garde Freinet"
+    ]
+  },
+  {
+    "value": "La Tour",
+    "synonyms": [
+      "La Tour"
+    ]
+  },
+  {
+    "value": "Le Tignet",
+    "synonyms": [
+      "Le Tignet"
+    ]
+  },
+  {
+    "value": "Lorgues",
+    "synonyms": [
+      "Lorgues"
+    ]
+  },
+  {
+    "value": "Le Thoronet",
+    "synonyms": [
+      "Le Thoronet"
+    ]
+  },
+  {
+    "value": "La Londe-les-Maures",
+    "synonyms": [
+      "La Londe-les-Maures",
+      "La Londe les Maures",
+      "Londe-les-Maures",
+      "La Londe les Maures",
+      "Londe les Maures"
+    ]
+  },
+  {
+    "value": "La Roquette-sur-Siagne",
+    "synonyms": [
+      "La Roquette-sur-Siagne",
+      "Roquette-sur-Siagne",
+      "La Roquette sur Siagne",
+      "Roquette sur Siagne"
+    ]
+  },
+  {
+    "value": "Fayence",
+    "synonyms": [
+      "Fayence"
+    ]
+  },
+  {
+    "value": "Fréjus",
+    "synonyms": [
+      "Fréjus",
+      "Frejus"
+    ]
+  },
+  {
+    "value": "Gars",
+    "synonyms": [
+      "Gars"
+    ]
+  },
+  {
+    "value": "Gassin",
+    "synonyms": [
+      "Gassin"
+    ]
+  },
+  {
+    "value": "Gilette",
+    "synonyms": [
+      "Gilette"
+    ]
+  },
+  {
+    "value": "Isola",
+    "synonyms": [
+      "Isola"
+    ]
+  },
+  {
+    "value": "La Bollène-Vésubie",
+    "synonyms": [
+      "La Bollène-Vésubie",
+      "La Bollène Vésubie",
+      "Bollène Vésubie",
+      "Bollène-Vésubie"
+    ]
+  },
+  {
+    "value": "Le Mas",
+    "synonyms": [
+      "Le Mas"
+    ]
+  },
+  {
+    "value": "Les Mayons",
+    "synonyms": [
+      "Les Mayons"
+    ]
+  },
+  {
+    "value": "La Roquette-sur-Var",
+    "synonyms": [
+      "La Roquette-sur-Var",
+      "Roquette-sur-Var",
+      "La Roquette sur Var",
+      "Roquette sur Var"
+    ]
+  },
+  {
+    "value": "Lantosque",
+    "synonyms": [
+      "Lantosque"
+    ]
+  },
+  {
+    "value": "Le Cannet",
+    "synonyms": [
+      "Le Cannet"
+    ]
+  },
+  {
+    "value": "Gourdon",
+    "synonyms": [
+      "Gourdon"
+    ]
+  },
+  {
+    "value": "Falicon",
+    "synonyms": [
+      "Falicon"
+    ]
+  },
+  {
+    "value": "Gonfaron",
+    "synonyms": [
+      "Gonfaron"
+    ]
+  },
+  {
+    "value": "Gattières",
+    "synonyms": [
+      "Gattières",
+      "Gattieres"
+    ]
+  },
+  {
+    "value": "Grimaud",
+    "synonyms": [
+      "Grimaud"
+    ]
+  },
+  {
+    "value": "La Colle-sur-Loup",
+    "synonyms": [
+      "La Colle-sur-Loup",
+      "La Colle sur Loup",
+      "Colle-sur-Loup",
+      "Colle sur Loup"
+    ]
+  },
+  {
+    "value": "La Penne",
+    "synonyms": [
+      "La Penne"
+    ]
+  },
+  {
+    "value": "L\u0027Escarène",
+    "synonyms": [
+      "L\u0027Escarène",
+      "L Escarène",
+      "L Escarene",
+      "L\u0027Escarene"
+    ]
+  },
+  {
+    "value": "Flayosc",
+    "synonyms": [
+      "Flayosc"
+    ]
+  },
+  {
+    "value": "Hyères",
+    "synonyms": [
+      "Hyères",
+      "Hyeres"
+    ]
+  },
+  {
+    "value": "Le Broc",
+    "synonyms": [
+      "Le Broc"
+    ]
+  },
+  {
+    "value": "Les Adrets de l\u0027Estérel",
+    "synonyms": [
+      "Les Adrets de l\u0027Estérel",
+      "Les Adrets de l\u0027Esterel"
+    ]
+  },
+  {
+    "value": "Fontan",
+    "synonyms": [
+      "Fontan"
+    ]
+  },
+  {
+    "value": "Le Plan-de-la-Tour",
+    "synonyms": [
+      "Le Plan-de-la-Tour",
+      "Plan-de-la-Tour",
+      "Plan de la Tour",
+      "Le Plan de la Tour"
+    ]
+  },
+  {
+    "value": "Les Mujouls",
+    "synonyms": [
+      "Les Mujouls"
+    ]
+  },
+  {
+    "value": "Gorbio",
+    "synonyms": [
+      "Gorbio"
+    ]
+  },
+  {
+    "value": "La Croix-Valmer",
+    "synonyms": [
+      "La Croix-Valmer",
+      "Croix-Valmer",
+      "Croix Valmer",
+      "La Croix Valmer"
+    ]
+  },
+  {
+    "value": "La Gaude",
+    "synonyms": [
+      "La Gaude"
+    ]
+  },
+  {
+    "value": "La Môle",
+    "synonyms": [
+      "La Môle",
+      "La Mole",
+      "Mole"
+    ]
+  },
+  {
+    "value": "Le Luc en Provence",
+    "synonyms": [
+      "Le Luc en Provence"
+    ]
+  },
+  {
+    "value": "Malaussène",
+    "synonyms": [
+      "Malaussène",
+      "Malaussene"
+    ]
+  },
+  {
+    "value": "Le Bar-sur-Loup",
+    "synonyms": [
+      "Le Bar-sur-Loup",
+      "Bar-sur-Loup",
+      "Le Bar sur Loup"
+    ]
+  },
+  {
+    "value": "Le Lavandou",
+    "synonyms": [
+      "Le Lavandou"
+    ]
+  },
+  {
+    "value": "Massoins",
+    "synonyms": [
+      "Massoins"
+    ]
+  },
+  {
+    "value": "Menton",
+    "synonyms": [
+      "Menton"
+    ]
+  },
+  {
+    "value": "Opio",
+    "synonyms": [
+      "Opio"
+    ]
+  },
+  {
+    "value": "Moulinet",
+    "synonyms": [
+      "Moulinet"
+    ]
+  },
+  {
+    "value": "Monaco",
+    "synonyms": [
+      "Monaco"
+    ]
+  },
+  {
+    "value": "Pierlas",
+    "synonyms": [
+      "Pierlas"
+    ]
+  },
+  {
+    "value": "Saint-Cézaire-sur-Siagne",
+    "synonyms": [
+      "Saint-Cézaire-sur-Siagne",
+      "Saint Cézaire-sur-Siagne",
+      "Saint-Cezaire-sur-Siagne",
+      "Cézaire-sur-Siagne",
+      "Cezaire-sur-Siagne",
+      "St-Cézaire-sur-Siagne",
+      "St Cézaire-sur-Siagne",
+      "St-Cezaire-sur-Siagne"
+    ]
+  },
+  {
+    "value": "Tanneron",
+    "synonyms": [
+      "Tanneron"
+    ]
+  },
+  {
+    "value": "Valberg",
+    "synonyms": [
+      "Valberg"
+    ]
+  },
+  {
+    "value": "Villeneuve-d\u0027Entraunes",
+    "synonyms": [
+      "Villeneuve-d\u0027Entraunes",
+      "Villeneuve d\u0027Entraunes"
+    ]
+  },
+  {
+    "value": "Mougins",
+    "synonyms": [
+      "Mougins"
+    ]
+  },
+  {
+    "value": "Puget-Théniers",
+    "synonyms": [
+      "Puget-Théniers",
+      "Puget Théniers",
+      "Puget Theniers"
+    ]
+  },
+  {
+    "value": "Roquebrune-sur-Argens",
+    "synonyms": [
+      "Roquebrune-sur-Argens",
+      "Roquebrune sur Argens"
+    ]
+  },
+  {
+    "value": "Saint-Jean-Cap-Ferrat",
+    "synonyms": [
+      "Saint-Jean-Cap-Ferrat",
+      "Saint Jean-Cap-Ferrat",
+      "Jean Cap Ferrat",
+      "St-Jean-Cap-Ferrat",
+      "St Jean-Cap-Ferrat"
+    ]
+  },
+  {
+    "value": "Saint-Laurent-du-Var",
+    "synonyms": [
+      "Saint-Laurent-du-Var",
+      "Saint Laurent-du-Var",
+      "Laurent-du-Var",
+      "Laurent du Var",
+      "St-Laurent-du-Var",
+      "St Laurent-du-Var"
+    ]
+  },
+  {
+    "value": "Saint-Martin-d\u0027Entraunes",
+    "synonyms": [
+      "Saint-Martin-d\u0027Entraunes",
+      "Saint Martin-d\u0027Entraunes",
+      "Martin-d\u0027Entraunes",
+      "Martin d\u0027Entraunes",
+      "St-Martin-d\u0027Entraunes",
+      "St Martin-d\u0027Entraunes"
+    ]
+  },
+  {
+    "value": "Saint-Raphaël",
+    "synonyms": [
+      "Saint-Raphaël",
+      "Saint Raphaël",
+      "Saint Raphael",
+      "St-Raphaël",
+      "St Raphaël",
+      "St Raphael"
+    ]
+  },
+  {
+    "value": "Sainte-Maxime",
+    "synonyms": [
+      "Sainte-Maxime",
+      "Sainte Maxime"
+    ]
+  },
+  {
+    "value": "Villecroze",
+    "synonyms": [
+      "Villecroze"
+    ]
+  },
+  {
+    "value": "Mandelieu-la Napoule",
+    "synonyms": [
+      "Mandelieu-la Napoule",
+      "Mandelieu la Napoule"
+    ]
+  },
+  {
+    "value": "Saint-Léger",
+    "synonyms": [
+      "Saint-Léger",
+      "Saint Léger",
+      "St-Léger",
+      "St Léger"
+    ]
+  },
+  {
+    "value": "Seillans",
+    "synonyms": [
+      "Seillans"
+    ]
+  },
+  {
+    "value": "Séranon",
+    "synonyms": [
+      "Séranon",
+      "Seranon"
+    ]
+  },
+  {
+    "value": "Salernes",
+    "synonyms": [
+      "Salernes"
+    ]
+  },
+  {
+    "value": "Tournefort",
+    "synonyms": [
+      "Tournefort"
+    ]
+  },
+  {
+    "value": "Rimplas",
+    "synonyms": [
+      "Rimplas"
+    ]
+  },
+  {
+    "value": "Vallauris",
+    "synonyms": [
+      "Vallauris",
+      "Vallauris Golf-Juan",
+      "Vallauris Golf Juan",
+      "Vallauris-Golf Juan",
+      "Vallauris-Golf-Juan"
+    ]
+  },
+  {
+    "value": "Marie",
+    "synonyms": [
+      "Marie"
+    ]
+  },
+  {
+    "value": "Saint-André-de-la-Roche",
+    "synonyms": [
+      "Saint-André-de-la-Roche",
+      "Saint André de la Roche",
+      "St André-de-la-Roche",
+      "St-André-de-la-Roche",
+      "Andre-de-la-Roche"
+    ]
+  },
+  {
+    "value": "Montferrat",
+    "synonyms": [
+      "Montferrat"
+    ]
+  },
+  {
+    "value": "Nice",
+    "synonyms": [
+      "Nice"
+    ]
+  },
+  {
+    "value": "Sallagriffon",
+    "synonyms": [
+      "Sallagriffon"
+    ]
+  },
+  {
+    "value": "Tende",
+    "synonyms": [
+      "Tende"
+    ]
+  },
+  {
+    "value": "Villefranche-sur-Mer",
+    "synonyms": [
+      "Villefranche-sur-Mer",
+      "Villefranche sur Mer"
+    ]
+  },
+  {
+    "value": "Ramatuelle",
+    "synonyms": [
+      "Ramatuelle"
+    ]
+  },
+  {
+    "value": "Mons",
+    "synonyms": [
+      "Mons"
+    ]
+  },
+  {
+    "value": "Roquefort-les-Pins",
+    "synonyms": [
+      "Roquefort-les-Pins",
+      "Roquefort les Pins"
+    ]
+  },
+  {
+    "value": "Saorge",
+    "synonyms": [
+      "Saorge"
+    ]
+  },
+  {
+    "value": "Venanson",
+    "synonyms": [
+      "Venanson"
+    ]
+  },
+  {
+    "value": "Peillon",
+    "synonyms": [
+      "Peillon"
+    ]
+  },
+  {
+    "value": "Pierrefeu",
+    "synonyms": [
+      "Pierrefeu"
+    ]
+  },
+  {
+    "value": "Peille",
+    "synonyms": [
+      "Peille"
+    ]
+  },
+  {
+    "value": "Pégomas",
+    "synonyms": [
+      "Pégomas",
+      "Pegomas"
+    ]
+  },
+  {
+    "value": "Peymeinade",
+    "synonyms": [
+      "Peymeinade"
+    ]
+  },
+  {
+    "value": "Rigaud",
+    "synonyms": [
+      "Rigaud"
+    ]
+  },
+  {
+    "value": "Touët-sur-Var",
+    "synonyms": [
+      "Touët-sur-Var",
+      "Touet sur Var"
+    ]
+  },
+  {
+    "value": "Trans-en-Provence",
+    "synonyms": [
+      "Trans-en-Provence",
+      "Trans en Provence"
+    ]
+  },
+  {
+    "value": "Utelle",
+    "synonyms": [
+      "Utelle"
+    ]
+  },
+  {
+    "value": "Valdeblore",
+    "synonyms": [
+      "Valdeblore"
+    ]
+  },
+  {
+    "value": "Montauroux",
+    "synonyms": [
+      "Montauroux"
+    ]
+  },
+  {
+    "value": "Mouans-Sartoux",
+    "synonyms": [
+      "Mouans-Sartoux",
+      "Mouans Sartoux"
+    ]
+  },
+  {
+    "value": "Roure",
+    "synonyms": [
+      "Roure"
+    ]
+  },
+  {
+    "value": "Saint-Martin-du-Var",
+    "synonyms": [
+      "Saint-Martin-du-Var",
+      "Saint Martin-du-Var",
+      "Saint Martin du Var",
+      "Martin-du-Var",
+      "Martin du Var",
+      "St-Martin-du-Var",
+      "St Martin-du-Var",
+      "St Martin du Var"
+    ]
+  },
+  {
+    "value": "Saint-Vallier-de-Thiey",
+    "synonyms": [
+      "Saint-Vallier-de-Thiey",
+      "Saint Vallier-de-Thiey",
+      "Vallier-de-Thiey",
+      "Vallier de Thiey",
+      "St-Vallier-de-Thiey",
+      "St Vallier-de-Thiey"
+    ]
+  },
+  {
+    "value": "Sauze",
+    "synonyms": [
+      "Sauze"
+    ]
+  },
+  {
+    "value": "Thiéry",
+    "synonyms": [
+      "Thiéry",
+      "Thiery"
+    ]
+  },
+  {
+    "value": "Tourrettes-sur-Loup",
+    "synonyms": [
+      "Tourrettes-sur-Loup",
+      "Tourrettes sur-Loup",
+      "Tourrettes sur Loup",
+      "tourette sur Loup",
+      "tourettes sur Loup",
+      "tourrette sur Loup"
+    ]
+  },
+  {
+    "value": "Villeneuve-Loubet",
+    "synonyms": [
+      "Villeneuve-Loubet",
+      "Villeneuve Loubet"
+    ]
+  },
+  {
+    "value": "Rayol-Canadel-sur-Mer",
+    "synonyms": [
+      "Rayol-Canadel-sur-Mer",
+      "Rayol Canadel sur Mer"
+    ]
+  },
+  {
+    "value": "Saint-Antonin-du-Var",
+    "synonyms": [
+      "Saint-Antonin-du-Var",
+      "Saint Antonin du Var",
+      "Saint Antonin-du-Var",
+      "St-Antonin-du-Var",
+      "St Antonin du Var",
+      "St Antonin-du-Var"
+    ]
+  },
+  {
+    "value": "Saint-Tropez",
+    "synonyms": [
+      "Saint-Tropez",
+      "St Tropez",
+      "St-Tropez"
+    ]
+  },
+  {
+    "value": "Sospel",
+    "synonyms": [
+      "Sospel"
+    ]
+  },
+  {
+    "value": "Tourrette-Levens",
+    "synonyms": [
+      "Tourrette-Levens",
+      "Tourrette Levens",
+      "tourette Levens",
+      "tourettes Levens",
+      "tourrette Levens"
+    ]
+  },
+  {
+    "value": "Tourrettes",
+    "synonyms": [
+      "Tourrettes",
+      "tourette",
+      "tourettes",
+      "tourrette"
+    ]
+  },
+  {
+    "value": "Tourtour",
+    "synonyms": [
+      "Tourtour"
+    ]
+  },
+  {
+    "value": "Vidauban",
+    "synonyms": [
+      "Vidauban"
+    ]
+  },
+  {
+    "value": "Roquebillière",
+    "synonyms": [
+      "Roquebillière",
+      "Roquebilliere"
+    ]
+  },
+  {
+    "value": "Roquestéron-Grasse",
+    "synonyms": [
+      "Roquestéron-Grasse",
+      "Roquestéron Grasse",
+      "Roquesteron Grasse"
+    ]
+  },
+  {
+    "value": "Saint-Blaise",
+    "synonyms": [
+      "Saint-Blaise",
+      "Saint Blaise",
+      "St-Blaise",
+      "St Blaise"
+    ]
+  },
+  {
+    "value": "Sigale",
+    "synonyms": [
+      "Sigale"
+    ]
+  },
+  {
+    "value": "Vence",
+    "synonyms": [
+      "Vence"
+    ]
+  },
+  {
+    "value": "Saint-Antonin",
+    "synonyms": [
+      "Saint-Antonin",
+      "Saint Antonin",
+      "St-Antonin",
+      "St Antonin"
+    ]
+  },
+  {
+    "value": "Saint-Auban",
+    "synonyms": [
+      "Saint-Auban",
+      "Saint Auban",
+      "St-Auban",
+      "St Auban"
+    ]
+  },
+  {
+    "value": "Saint-Jeannet",
+    "synonyms": [
+      "Saint-Jeannet",
+      "Saint Jeannet",
+      "St-Jeannet"
+    ]
+  },
+  {
+    "value": "Saint-Paul",
+    "synonyms": [
+      "Saint-Paul",
+      "Saint Paul",
+      "St-Paul",
+      "St Paul"
+    ]
+  },
+  {
+    "value": "Sainte-Agnès",
+    "synonyms": [
+      "Sainte-Agnès",
+      "Sainte Agnès",
+      "Sainte-Agnes",
+      "Sainte Agnes"
+    ]
+  },
+  {
+    "value": "Revest-les-Roches",
+    "synonyms": [
+      "Revest-les-Roches",
+      "Revest les Roches"
+    ]
+  },
+  {
+    "value": "Roquebrune-Cap-Martin",
+    "synonyms": [
+      "Roquebrune-Cap-Martin",
+      "Roquebrune Cap Martin"
+    ]
+  },
+  {
+    "value": "Roquesteron",
+    "synonyms": [
+      "Roquesteron"
+    ]
+  },
+  {
+    "value": "Saint-Dalmas-le-Selvage",
+    "synonyms": [
+      "Saint-Dalmas-le-Selvage"
+    ]
+  },
+  {
+    "value": "Saint-Sauveur-sur-Tinée",
+    "synonyms": [
+      "Saint-Sauveur-sur-Tinée",
+      "Saint Sauveur-sur-Tinée",
+      "Saint Sauveur-sur-Tinee",
+      "Saint Sauveur sur Tinee",
+      "St-Sauveur-sur-Tinée",
+      "St Sauveur-sur-Tinée",
+      "St Sauveur-sur-Tinee",
+      "St Sauveur sur Tinee"
+    ]
+  },
+  {
+    "value": "Spéracèdes",
+    "synonyms": [
+      "Spéracèdes",
+      "Speracedes"
+    ]
+  },
+  {
+    "value": "Valderoure",
+    "synonyms": [
+      "Valderoure"
+    ]
+  },
+  {
+    "value": "Puget-Rostang",
+    "synonyms": [
+      "Puget-Rostang",
+      "Puget Rostang"
+    ]
+  },
+  {
+    "value": "Saint-Étienne-de-Tinée",
+    "synonyms": [
+      "Saint-Étienne-de-Tinée",
+      "Saint Étienne-de-Tinée",
+      "Saint Étienne de Tinée",
+      "Étienne-de-Tinée",
+      "Étienne de Tinée",
+      "St-Étienne-de-Tinée",
+      "St Étienne-de-Tinée",
+      "St Étienne de Tinée",
+      "Etienne-de-Tinee",
+      "Etienne de Tinee",
+      "St-Etienne-de-Tinée",
+      "St Etienne-de-Tinée",
+      "St Etienne de Tinee"
+    ]
+  },
+  {
+    "value": "Saint-Paul-en-Forêt",
+    "synonyms": [
+      "Saint-Paul-en-Forêt",
+      "Saint Paul-en-Forêt",
+      "Saint-Paul-en-Foret",
+      "Saint Paul-en-Foret",
+      "Paul-en-Forêt",
+      "Paul en Foret",
+      "St-Paul-en-Forêt",
+      "St Paul-en-Forêt",
+      "St-Paul-en-Foret",
+      "St Paul-en-Foret"
+    ]
+  },
+  {
+    "value": "Taradeau",
+    "synonyms": [
+      "Taradeau"
+    ]
+  },
+  {
+    "value": "Théoule-sur-Mer",
+    "synonyms": [
+      "Théoule-sur-Mer",
+      "Théoule sur Mer",
+      "Theoule sur Mer"
+    ]
+  },
+  {
+    "value": "Péone",
+    "synonyms": [
+      "Péone",
+      "Peone"
+    ]
+  },
+  {
+    "value": "Puget-sur-Argens",
+    "synonyms": [
+      "Puget-sur-Argens",
+      "Puget sur Argens"
+    ]
+  },
+  {
+    "value": "Roubion",
+    "synonyms": [
+      "Roubion"
+    ]
+  },
+  {
+    "value": "Saint-Martin-Vésubie",
+    "synonyms": [
+      "Saint-Martin-Vésubie",
+      "St Martin Vésubie",
+      "Martin-Vésubie",
+      "Saint Martin-Vésubie",
+      "St Martin-Vésubie"
+    ]
+  },
+  {
+    "value": "Toudon",
+    "synonyms": [
+      "Toudon"
+    ]
+  },
+  {
+    "value": "Touët-de-l\u0027Escarène",
+    "synonyms": [
+      "Touët-de-l\u0027Escarène",
+      "Touët de l\u0027Escarène",
+      "Touet de l\u0027Escarene",
+      "Touët de l\u0027Escarene",
+      "Touet de l\u0027Escarène"
+    ]
+  },
+  {
+    "value": "Tourette-du-Château",
+    "synonyms": [
+      "Tourette-du-Château",
+      "Tourette du Chateau",
+      "tourette du Chateau",
+      "tourettes du Chateau",
+      "tourrette du Chateau"
+    ]
+  },
+  {
+    "value": "Valbonne",
+    "synonyms": [
+      "Valbonne",
+      "Sophia Antipolis",
+      "Sophia",
+      "Sophia-Antipolis",
+      "VSA"
+    ]
+  },
+  {
+    "value": "Villars-sur-Var",
+    "synonyms": [
+      "Villars-sur-Var",
+      "Villars sur Var"
+    ]
+  }
+]

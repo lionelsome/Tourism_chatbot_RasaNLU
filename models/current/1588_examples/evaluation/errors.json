@@ -1,0 +1,188 @@
+{
+    "intent_errors": [
+        {
+            "intent_prediction": {
+                "name": "find.event",
+                "confidence": 0.928442120552063
+            },
+            "text": "Is there anything happening at 8 pm in Nice",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.event",
+                "confidence": 0.9452003240585327
+            },
+            "text": "Is there anything happening in December in Nice",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.shopping",
+                "confidence": 0.513880729675293
+            },
+            "text": "I would like to do a walk",
+            "intent": "find.poi"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "I'm starving",
+            "intent": "find.restaurant"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.8894222974777222
+            },
+            "text": "Is there anything happening today Nice",
+            "intent": "find.event"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.9857174158096313
+            },
+            "text": "what do you want me to do on 14th August in Nice",
+            "intent": "find.activity"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.shopping",
+                "confidence": 0.6256704926490784
+            },
+            "text": "Nice",
+            "intent": "find.address"
+        },
+        {
+            "intent_prediction": {
+                "name": "insult",
+                "confidence": 0.7023488879203796
+            },
+            "text": "I will slap myself",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.7416273951530457
+            },
+            "text": "I do not like this plan",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.7046750783920288
+            },
+            "text": "I have a depression with your results",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.4308764934539795
+            },
+            "text": "not what i want",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.9649256467819214
+            },
+            "text": "I have had more than enough",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "insult",
+                "confidence": 0.8140109181404114
+            },
+            "text": "are you serious ?",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "insult",
+                "confidence": 0.7502199411392212
+            },
+            "text": "Push off",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Mother fucker",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Bastard",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.positive",
+                "confidence": 0.646882176399231
+            },
+            "text": "damn you",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.positive",
+                "confidence": 0.646882176399231
+            },
+            "text": "fuck you",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.9281995296478271
+            },
+            "text": "find something else",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "restart",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "Default Welcome Intent",
+                "confidence": 0.5339434742927551
+            },
+            "text": "adiyos amigo",
+            "intent": "leave.positive"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.poi",
+                "confidence": 0.6943408250808716
+            },
+            "text": "show interesting facts in Nice",
+            "intent": "discover.city"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Hey",
+            "intent": "Default Welcome Intent"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "33c39aea-2ddf-4cf9-9fd3-d0e2ecb0f28d",
+  "name": "find.generic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.generic",
+      "affectedContexts": [
+        {
+          "name": "find-generic",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "findgeneric-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ad9c3929-8c66-4ad6-ab19-9ad61d946558",
+          "required": false,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "6d670576-fda8-4080-aa6e-06a9bd288975",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "datetime",
+          "value": "$datetime",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Je peux vous aider sur de nombreuses choses telles que les événements, activités, lieux, shopping, hébergement et restauration ! ",
+            "J\u0027ai plein d\u0027information sur les événements, activités, lieux, shopping, hébergement et restauration ! ",
+            "Est-ce qu\u0027il y a quelque chose en particulier qui vous intéresse : événements, activités, lieux, shopping, hébergement ou restauration ?",
+            "Êtes-vous intéressés par l\u0027une de ces catégories : événements, activités, lieux, shopping, hébergement ou restauration ? ",
+            "Je peux vous suggérer de nombreuses choses telles que les événements, activités, lieux, shopping, hébergement et restauration ! "
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I can help you on on a lot of things such as events, activities, places, shopping or food maybe?",
+            "I have information on a lot of things such as events, activities, city attractions, shopping and restaurants for example. ",
+            "what are you interested in?  events, activities, sightseeings, local stores and restaurants for example. ",
+            "are you interested in events, activities, sightseeings, local stores and food for example. ",
+            "I can suggest you on these: events, activities, places, local stores and restaurants for example. ",
+            "Sure, I can assist you on this. Let’s start by selecting from categories such as events, activities, city attractions, shopping or food maybe?",
+            "I can advise on a lot of things such as events, activities, places, shopping or food maybe?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539785995,
+  "fallbackIntent": false,
+  "events": []
+}

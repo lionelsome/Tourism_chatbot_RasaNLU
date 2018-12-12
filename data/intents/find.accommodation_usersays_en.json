@@ -1,0 +1,4088 @@
+[
+  {
+    "id": "9769ef3c-4125-46e4-ab58-1fa1d513c78e",
+    "data": [
+      {
+        "text": "I want to rest somewhere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "5b21afcb-a28b-4c03-8820-40ad328f07c4",
+    "data": [
+      {
+        "text": "Find a place to rest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "cd7c25ae-fde3-48f5-9a7b-86da6c92a0dc",
+    "data": [
+      {
+        "text": "Find places to rest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "3fb8dc59-1333-41bb-b65b-e7ced256fd19",
+    "data": [
+      {
+        "text": "check a place to rest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8d31dbc8-af1b-4ecb-acf0-e5ed3c4eff58",
+    "data": [
+      {
+        "text": "check places to rest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "3c9708fc-9fff-429e-b353-8584893d9b4e",
+    "data": [
+      {
+        "text": "Find a place to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c3da6a68-856e-4f0a-8b98-045ef575c764",
+    "data": [
+      {
+        "text": "Find places to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "cda27dc8-019f-4c95-bd3d-da560ccda7de",
+    "data": [
+      {
+        "text": "check a place to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e19346c2-b91e-4eb7-8823-a17a22dd2d0e",
+    "data": [
+      {
+        "text": "check places to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6680a799-fe9e-430f-a39e-b9639ed4e87e",
+    "data": [
+      {
+        "text": "I want to book a place to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "385ae7a2-1e05-40be-9817-b04672f0b5d4",
+    "data": [
+      {
+        "text": "I want to book a room to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0bc07ef8-f951-4b1e-b234-b34cf40fbebe",
+    "data": [
+      {
+        "text": "show me places to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "776255ac-0a2e-46b5-8975-a4a4f7e5e119",
+    "data": [
+      {
+        "text": "Find a place to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "370e0ddf-a9ce-4786-bc37-810bc3964650",
+    "data": [
+      {
+        "text": "Find places to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ac9856dc-d2b2-420e-b63a-e072ce4766b6",
+    "data": [
+      {
+        "text": "check place to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "807eb4c1-a0b1-40a0-a384-98571f8b2dad",
+    "data": [
+      {
+        "text": "check places to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a8561435-71bf-43f5-8a03-6fd20fe5c2b2",
+    "data": [
+      {
+        "text": "Find a room to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c87a1395-9419-4675-b3dc-a13d41109aa8",
+    "data": [
+      {
+        "text": "Find rooms to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "628fa8eb-8ef5-4326-bc23-dacd172e8ffa",
+    "data": [
+      {
+        "text": "check room to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "a2d73396-7a48-45a0-95cc-866e1645c893",
+    "data": [
+      {
+        "text": "I want to sleep somewhere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "45eb1a5a-445a-49d7-9a80-4fe4574bdcd4",
+    "data": [
+      {
+        "text": "Find a place to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "13b37780-9353-4252-aaf4-7bde70380f08",
+    "data": [
+      {
+        "text": "Find places to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "7c1d3a02-1937-408e-aefd-22a2dda921a8",
+    "data": [
+      {
+        "text": "check a place to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6f041007-a7fb-41a8-9d0d-5da1d0c98f3f",
+    "data": [
+      {
+        "text": "check places to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "775f2803-6f76-468c-ae3b-aa1e59ee51cd",
+    "data": [
+      {
+        "text": "I want to book a place to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2c038d1f-40b9-4ed6-a933-324acbff3543",
+    "data": [
+      {
+        "text": "I want to book a room to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0890b3fc-d27c-416a-aad6-6991e4648390",
+    "data": [
+      {
+        "text": "show me places to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1355fe40-1761-41e1-9307-4cededc986de",
+    "data": [
+      {
+        "text": "check place to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c388ed3a-3843-4850-bad2-f04980fcdcfb",
+    "data": [
+      {
+        "text": "Find a room to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "715b5897-db0e-4b0f-af76-1383d6f73044",
+    "data": [
+      {
+        "text": "Find rooms to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "20fa781b-f2c1-4bdd-92ba-55a5dc534ecd",
+    "data": [
+      {
+        "text": "check room to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "8cdd593f-524b-4d27-8e0a-bb938fded1fe",
+    "data": [
+      {
+        "text": "Find a place to rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8ede3440-0b1e-40a6-91c6-af44709a6e98",
+    "data": [
+      {
+        "text": "Find a place to rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1610233f-97d8-4779-963d-fb1ec18a6686",
+    "data": [
+      {
+        "text": "Find a place to rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2c165089-964f-4048-a2f9-d0f1d7dc413e",
+    "data": [
+      {
+        "text": "Find a place to rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "d315d0fb-be46-499d-be69-a9ddcda1356e",
+    "data": [
+      {
+        "text": "check place to rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "5ec9037e-b8ac-472d-aed9-b26f648c9812",
+    "data": [
+      {
+        "text": "check place to rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0d214677-d4df-4b8e-96e5-d348bbd3e698",
+    "data": [
+      {
+        "text": "check place to rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "f858e745-876d-4890-a648-2557db27ea63",
+    "data": [
+      {
+        "text": "check place to rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a39a3573-c97a-43b3-b777-8f6996005564",
+    "data": [
+      {
+        "text": "Halt in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "9df63087-5465-4666-b9e8-1037c87c6889",
+    "data": [
+      {
+        "text": "Halt in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "730b348b-34da-4c68-ab98-9ffa2a0e6e9d",
+    "data": [
+      {
+        "text": "Halt ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ca1ab52a-387f-4c9b-ad84-53ffe7e89c54",
+    "data": [
+      {
+        "text": "Halt in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ab68ebc3-2631-42d3-a09a-0da53bc84892",
+    "data": [
+      {
+        "text": "I want to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "4e3591f3-7cd3-4eee-8d58-be619fde466b",
+    "data": [
+      {
+        "text": "I want to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "9a4175f9-5752-41db-bf99-297bfc0c940d",
+    "data": [
+      {
+        "text": "I want to stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1da15093-b290-43c8-bd8d-310bb53d45c0",
+    "data": [
+      {
+        "text": "I want to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "649038e0-9452-49a9-a103-62db56a09819",
+    "data": [
+      {
+        "text": "find a place to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1d89895b-9d66-45b8-95bd-4b9d6720ea2a",
+    "data": [
+      {
+        "text": "find a place to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "39f30d53-43ee-4c6e-a20b-eb6c8d224626",
+    "data": [
+      {
+        "text": "find a place to stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "17fe7973-d1c7-41ec-8ca6-d126a2349805",
+    "data": [
+      {
+        "text": "find a place to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "d17fdb74-fc76-4675-a5f2-105c0c40185e",
+    "data": [
+      {
+        "text": "where can I stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c08d3541-abd2-408d-9423-8450e2af4eba",
+    "data": [
+      {
+        "text": "where can I stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "786882a0-94b7-4287-bda8-e9c297265bc7",
+    "data": [
+      {
+        "text": "where can I stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8b4eee1f-bd14-453e-b0d9-4575525e69b4",
+    "data": [
+      {
+        "text": "where can I stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "76d59b80-1f3b-4e72-b750-6fdb8110ef36",
+    "data": [
+      {
+        "text": "Find a place to sleep in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "cd6642fd-62f5-465e-b367-bac3bf058638",
+    "data": [
+      {
+        "text": "Find a place to sleep in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "9b2e58f7-e7f6-4719-85a0-6e3d6e068a1b",
+    "data": [
+      {
+        "text": "Find a place to sleep ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "983b538f-0c93-445f-a342-ea66ac822af6",
+    "data": [
+      {
+        "text": "Find a place to sleep in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "d337b774-1dd2-4f3a-a576-27ffb5a09fde",
+    "data": [
+      {
+        "text": "Night stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "860675ef-f1c0-4b82-92ba-be1a69d7fb80",
+    "data": [
+      {
+        "text": "Night stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6b436172-7c06-4044-bcb2-dba884094e3d",
+    "data": [
+      {
+        "text": "Night stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "cba5bda7-6ce8-4114-8803-43eb24a6b61a",
+    "data": [
+      {
+        "text": "Night stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b11e920f-2009-476b-b57a-26030e4aedaf",
+    "data": [
+      {
+        "text": "find a place to rest on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6148a2ea-f378-4059-b2be-29d339d55aeb",
+    "data": [
+      {
+        "text": "check place to rest on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "024fbf61-2437-430c-9ec0-3e612fcfa9f5",
+    "data": [
+      {
+        "text": "find a place to stay on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "53c41d1d-0b31-4ef1-b2d5-0e6af7e7b662",
+    "data": [
+      {
+        "text": "nice and expencive places in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b4cfabc5-648c-4c8f-b693-2095eb7e6fd3",
+    "data": [
+      {
+        "text": "nice and expencive places in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e8c365c9-bacd-45c0-99f1-90732d49939a",
+    "data": [
+      {
+        "text": "nice and expencive places in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6c604cec-c3a5-48ce-97bf-19f0561f0bc1",
+    "data": [
+      {
+        "text": "nice and expencive places ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "4226f478-64c2-4fe1-88f1-c113223e568e",
+    "data": [
+      {
+        "text": "nice and expencive places in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8b9ea53e-fdd0-4401-8b95-adc4ef40f145",
+    "data": [
+      {
+        "text": "nice and expencive places at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7ffb0728-8868-4f13-96a4-6b44b0e48d0b",
+    "data": [
+      {
+        "text": "nice and expencive places on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "827c6fa6-0487-4790-b7aa-4895f25b4db4",
+    "data": [
+      {
+        "text": "Find a place to rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "81c04348-f92b-4064-a996-47aa8d85520b",
+    "data": [
+      {
+        "text": "check place to rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "dbb567f0-e652-46ad-95d4-8a6083a24ea3",
+    "data": [
+      {
+        "text": "Halt ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "31a8e13e-1f0c-41d8-9d7a-de61e4377673",
+    "data": [
+      {
+        "text": "I want to stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1f8d23bc-60ef-4d3a-ab5f-b275d9840633",
+    "data": [
+      {
+        "text": "find a place to stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "1ad8038a-f507-48ef-9594-5b964b2fcb73",
+    "data": [
+      {
+        "text": "where can I stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "411d9ed2-79dd-45b9-ab0f-8af3e7417ad8",
+    "data": [
+      {
+        "text": "Find a place to sleep ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "bb7a6599-1b8c-40af-a08b-b9ccab70550a",
+    "data": [
+      {
+        "text": "Night stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "8797bacc-b2ac-45f6-9c02-f7ede2764891",
+    "data": [
+      {
+        "text": "nice and expencive places ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "a4042f80-fa43-40a2-ad80-67c89614bb2c",
+    "data": [
+      {
+        "text": "Find a place 2 rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "55145d30-da0d-4843-bd59-99cea3588bbd",
+    "data": [
+      {
+        "text": "Find a place 2 rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "78d0aeea-6d22-4318-aaf1-b4a730f7a40d",
+    "data": [
+      {
+        "text": "Find a place 2 rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e77d1a0e-4870-4135-972f-9068c8cbe62e",
+    "data": [
+      {
+        "text": "Find a place 2 rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "dde51132-d495-4278-9613-34be1f7ab19c",
+    "data": [
+      {
+        "text": "check place 2 rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "67096c90-1830-4fda-a6db-d41bab598a37",
+    "data": [
+      {
+        "text": "check place 2 rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e8d517c8-5ccc-4c72-a512-53e3dbeec229",
+    "data": [
+      {
+        "text": "check place 2 rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "9fa818df-bdd3-485d-af20-682019da7ce0",
+    "data": [
+      {
+        "text": "check place 2 rest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "32cf7156-9200-464e-8e79-eef28ee8fd95",
+    "data": [
+      {
+        "text": "I wanna stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "dcf99536-981e-4e24-82a3-6e71ceac5e4d",
+    "data": [
+      {
+        "text": "I wanna stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8e6dcba8-261b-4df5-a2d8-c057e20bad69",
+    "data": [
+      {
+        "text": "I wanna stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "faeeb444-5a2d-4f1a-9c78-33b4ca8bef1e",
+    "data": [
+      {
+        "text": "I wanna stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "10bc0eb7-00c7-4600-9b2d-e6a2cdde79ee",
+    "data": [
+      {
+        "text": "find a place 2 stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1e587d1a-5840-4827-bd7d-7b2b70e61fff",
+    "data": [
+      {
+        "text": "find a place 2 stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ccfed66b-8b80-4821-b6de-76258ce695b5",
+    "data": [
+      {
+        "text": "find a place 2 stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "d93fca5f-0cae-446a-92a9-f7385f51d080",
+    "data": [
+      {
+        "text": "find a place 2 stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ef3c7e6e-b77a-459a-8575-8a33910529a5",
+    "data": [
+      {
+        "text": "Find a place 2 sleep in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1b7eb717-1e96-477b-b36a-ea5468aa75b7",
+    "data": [
+      {
+        "text": "Find a place 2 sleep in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "9dee15f5-4c93-420e-9cd3-38128f5a1935",
+    "data": [
+      {
+        "text": "Find a place 2 sleep ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "45043cea-f55e-4888-bc7c-f0fa88d36023",
+    "data": [
+      {
+        "text": "Find a place 2 sleep in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "fc886784-b9c1-4049-bb8d-7aaabe790ae5",
+    "data": [
+      {
+        "text": "find a place 2 rest on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2d93e9f8-e749-407f-bd95-c0565cde615c",
+    "data": [
+      {
+        "text": "check place 2 rest on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "f9c38377-0d3d-4021-98a7-f3204d71eda6",
+    "data": [
+      {
+        "text": "find a place 2 stay on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8ddc83c4-5de0-4e92-9cfd-af8b258622c6",
+    "data": [
+      {
+        "text": "Find a place 2 rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a2742d72-86b9-45b5-804e-5f8bbbfc6efe",
+    "data": [
+      {
+        "text": "check place 2 rest ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "fdf34bf8-0393-4ec3-92cb-ee13ebf1c433",
+    "data": [
+      {
+        "text": "I want 2 stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "fc54f03a-f0b3-4098-bf13-acd7a4f33b51",
+    "data": [
+      {
+        "text": "find a place 2 stay ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "6f25fff1-6222-46d4-aa00-2eaf3fe918fe",
+    "data": [
+      {
+        "text": "Find a place 2 sleep ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785863
+  },
+  {
+    "id": "c59730b3-77b6-47b3-bf9d-cc68b4eb21b8",
+    "data": [
+      {
+        "text": "@accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e8510eb1-af8f-4812-9a0a-a211999a145e",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b7831638-f515-4f2b-9d14-c2d4de7c8586",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ae84fadc-8f1f-42db-85e7-b4dcc84e02a9",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "61db224a-3efd-4509-a984-d5c7a9e4e868",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "195cc196-1c7d-4880-904f-9e2d1823c92d",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "40851ebb-5584-4ca7-8d9c-3e98f637e95f",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7249d8bf-a668-4a09-bb7b-b7f0c90eee49",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1ab42d3a-50db-467c-a55a-b9b26417581c",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "af6b9e3e-ffe8-498e-9681-a4a93e90fa48",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "102c0173-d6d4-4997-bc36-9138f68aedc0",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "35cc615c-d56e-4bb8-9312-5a63fe6f1afc",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7e33bf6a-a52c-4479-8420-39f3073b85fb",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "3a5b3cf1-9bba-4661-aa71-f94c1ec91cc2",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "45f6b707-27d7-4c61-9178-f0324854bd7d",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "954ea977-adf5-4a7e-8edb-0b64d8b00050",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c804b3c8-751a-455f-9665-7c7021fd1b39",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "36742c9f-caf7-4bd3-ac72-e894d0949106",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0457c3de-52a1-427e-a2f9-bf7296b909a2",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "4c73fbe8-2ebf-4bb5-8d3f-15366c8600c0",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "14492872-1c70-41bf-a024-58ed4819d4d0",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "84f3dbe9-2e81-4f94-aeff-ef9085fcd362",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ac5ef679-95fb-4f76-b96a-768d0ba1de35",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "db67b8f9-decb-48ea-930d-1da9b0fe8fdc",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ff7bd13e-977b-47e2-9877-11b7b6f84576",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c4c589f8-b877-405a-845c-ebb54f5d0123",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7556a10f-c107-4096-8607-8d92a7dc3af1",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2322f421-09b7-4f32-8cbb-40f82bb6938a",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e86ce3fa-9d51-4ad9-9484-3975d2c9cffd",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "316ce8b5-46e9-4296-8a94-70e07c7256d3",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2477b3d8-78f7-4de0-90ea-cbfd8218b458",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "c036f9e0-fa98-438a-9bdb-7e2c63fd44cf",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "be9269f9-cf24-4b5b-9591-b3bd14cb5d5f",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "87506fa1-b6af-4af9-ae06-70619ee76597",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0f0849f1-53e7-4265-910e-35ce6686cdc6",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "052da81d-2a2c-458b-a32d-a6c8e7c28a39",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0df016a6-30d7-41fd-b642-2bb9100fe4ff",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "368ce921-5d2c-46d9-bf56-bec3f3632a56",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6dbd80e4-f913-4b7f-b1b2-a82545a89d99",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "76873ac4-ac66-46f5-89ae-aecb570e36b3",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "f528609c-566f-49c6-bee9-43f676709e54",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b1a9f3b6-f28b-4a60-b870-cd3ef83f55f7",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "11305cc6-fe5f-4f10-81a9-1a5a27fd471f",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "625a1e24-ab9a-4527-abb2-19d54550205b",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "4ed43610-9fab-49c9-b0ed-188f198e9a90",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ead1547c-aa01-41e0-a9a3-e8748cd89853",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "bea1fa42-9ed5-4832-af4d-ab42618a1298",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6a338b20-20b3-45da-b11b-f634ae53d179",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "fcaee33e-d6d9-405d-8726-b551ef5195c7",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "16530b21-79d9-46db-aa7d-399e18dc3bb8",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7b0a4245-a86b-4b32-9a16-7ba5522406ef",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8cc3fe9a-ed57-4524-ad4d-ce78e9a0f86b",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "9667117a-13f2-4748-ae01-3317a920c7ee",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "05afeeac-01ea-478e-97eb-c7134744474e",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a0387448-9ef1-4508-9f8a-24c2e3c5b119",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "3b7fb97e-73b5-4e57-8d66-7878b0a967c5",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "5855148f-8c83-4d08-8543-ba9ef83ed1e7",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b207cfe5-0612-4cda-9291-0ce9a258a261",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6c5eb4ef-9a38-429e-a9f8-e9ea5d3a4a62",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e20b8d29-7e9e-413d-b11f-f6a0869e95d0",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "61aef382-9363-46c4-8e41-1a9298166467",
+    "data": [
+      {
+        "text": "@city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "db2b1051-bc06-4d67-b60c-bb56d78d74e0",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "87453a8d-5636-4436-8c58-93a6c2804da4",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a32a670a-6710-47d5-9e22-e6e2c15bafc1",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "34f784e4-caed-487a-b53e-5de2d6a832d1",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "39eb6ab6-3351-4281-9621-ffd56e29341e",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ade1119d-ef78-491c-b463-c3f45c9df0f3",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "f8a0adf0-38ca-4c4d-be54-9b944dae6566",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "bb2b8fa6-3ad7-47b7-a4ec-0268ce19e29f",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "29fbc5fc-6698-43a2-8f4f-86de9a2e0e02",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "40952bb3-d15c-4a7c-9615-59ecae5a156b",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "93cdd86b-1424-4f52-bef1-d8d073d1caa8",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2ea59b49-11a4-4ea8-a601-22d1e37db48f",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "44d907f5-c9ea-41c5-abbe-5d0c8e49aa16",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b668c3d2-b403-498e-8bfb-1d7c8b2a741e",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "99351576-646b-4a41-8854-9be9d1099488",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "11db4876-18fb-43a4-ad04-a98c6eeca0a5",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @accommodation:accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "5c269d12-5d8e-4e60-b8a1-686d0cfe8c6d",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "994a5519-dd93-45f1-9553-2abe63ebda9d",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "96f66726-ae2c-4de7-86cf-5345a31b7168",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1e3785bf-9b3c-48ad-b650-fa38e7b43cba",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @accommodation:accommodation @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "cd838bbd-db89-471f-bd32-d7ba27b2d49e",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "f506a28d-375d-4c7a-8f0e-b967f32620f9",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "eab6b772-b28a-47a8-a482-3be296cb5d45",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "143aa166-691c-4c85-9855-9410f01dd697",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "45a12b5f-5c44-4832-8d31-6841ea906a83",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8cfa6519-2544-48ca-85a3-625b40d5ba0b",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6319853b-2b32-4890-be76-d75045e0ba8c",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "17b051f0-8f27-452e-904d-98b950e5dd75",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0ad22ef0-7af7-4a88-975a-74a42abd35f1",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "68127ba7-350d-47d9-8b69-279df8f7f2b0",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8a4acc19-a1e2-4eab-9f05-1cf0743acb08",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "6d127392-feaf-4074-945c-bb5ffc9050ee",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "794897c4-1e60-420f-bd69-e56d47aad569",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "154cede3-10ef-46f3-83f0-6cdd1710cc0b",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7b1a9873-fb19-4e6c-981d-a82aa8f25627",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e45b7a0f-17ef-4f29-a63b-e390e41b39bc",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1b58c243-6245-4efc-bec7-5ef86c366449",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0fd2b74e-357a-4a9b-b11e-077b6c16e4d4",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e10899d3-6c19-4cd8-aaf4-82ad52c10f80",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "57a98bf3-a6d5-474c-adcc-d1b23bb82b1f",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a0728624-146d-4cd7-9efc-03fc7b76f3b0",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "0c85ff18-7690-4dcb-88b3-c7ff9e0a3c49",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2a781fc3-0bb0-4c29-95ca-f978311dcedb",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7a57fd07-b173-4ae9-9d6c-5b9a1dfee06c",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "7585bc5a-aad8-42fd-9f59-59a04715b300",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "ba5d3b05-2180-42e7-9d28-1186af79065b",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "461615ba-152a-4bc9-a4fb-c7ddafa566bb",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "95bd43e4-4156-4165-a72e-344b90572da4",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "20d68e73-feba-4a01-9e98-4c621ae4e510",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "8f347c3d-c4c4-4f7f-a43a-7ed61569cfab",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "528f13ea-18ed-481c-8a6e-8a92462537f3",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "1e3eb041-4200-4270-9a19-99a1e25153c1",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "2767ea7f-b5df-453b-b86b-a6586a080195",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "48644e16-8eab-4944-b1cc-add964f856c3",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "be703866-c261-4af2-92d3-618e4d542fe1",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "df6b4d41-2391-42ec-96a0-c870150aad8a",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "a376ef42-965d-4e71-8a41-66ada2166e20",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "b2eac3de-163a-44f9-bf98-96ec7b981914",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "e0d5619b-31a1-4590-9dd0-a424f65f3fa2",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "fe1b9d10-0d1f-46ce-8534-5e076b6eb23a",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "5ee82e88-8858-4f2b-80ac-fecae79ad532",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "dc2d6172-64c8-49e0-afcd-5df585759a08",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "74098471-12a3-4eef-be9a-404a87874190",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "3813d75d-3741-4f6a-98c4-1dd39fcca4d0",
+    "data": [
+      {
+        "text": "@accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  },
+  {
+    "id": "d421739d-aa7c-4862-abaf-12dcd743e600",
+    "data": [
+      {
+        "text": "@sys.any:any @accommodation:accommodation @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785863
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "eb54f5c3-44dc-41f3-b126-221ecac709c5",
+  "name": "find.address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find.address",
+      "affectedContexts": [
+        {
+          "name": "findaddress-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "737bf4c4-3ebc-49b1-b1a1-d30a57d0d43e",
+          "required": false,
+          "dataType": "@poi",
+          "name": "poi",
+          "value": "$poi",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "8f7af1b2-d083-46e5-ac51-12b60e25cad6",
+          "required": false,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "25e51254-be9d-4ac1-aff3-ecb9c91b1074",
+          "required": false,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "e0ba0efd-a0f2-48c2-a0cb-a383cba2cb0a",
+          "dataType": "@accommodation",
+          "name": "accommodation",
+          "value": "$accommodation",
+          "isList": true
+        },
+        {
+          "id": "064e9ad6-736d-4f99-82d1-44358a5dae55",
+          "dataType": "@shopping",
+          "name": "shopping",
+          "value": "$shopping",
+          "isList": true
+        },
+        {
+          "id": "b141368f-d427-48ba-8e90-6d9f69cbdc3e",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539789589,
+  "fallbackIntent": false,
+  "events": []
+}

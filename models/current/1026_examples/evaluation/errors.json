@@ -1,0 +1,172 @@
+{
+    "intent_errors": [
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.577171802520752
+            },
+            "text": "how helpful can you be",
+            "intent": "find.generic"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.714705228805542
+            },
+            "text": "show me something to do on 14th August in Nice",
+            "intent": "find.activity"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.745953381061554
+            },
+            "text": "Show me something to do today Nice",
+            "intent": "find.activity"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.poi",
+                "confidence": 0.5078824758529663
+            },
+            "text": "today in  Nice",
+            "intent": "find.shopping"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.8673076629638672
+            },
+            "text": "where is",
+            "intent": "find.address"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.7169995307922363
+            },
+            "text": "how to go to",
+            "intent": "find.address"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "get lost",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.more",
+                "confidence": 0.9346740245819092
+            },
+            "text": "find something else",
+            "intent": "leave.negative"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Whore",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.9777048826217651
+            },
+            "text": "Shut up",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.8865850567817688
+            },
+            "text": "bot you are stupid",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Fucking",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "jerk",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "Dumbass",
+            "intent": "insult"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.8939458131790161
+            },
+            "text": "that's all you have?",
+            "intent": "find.more"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "restart",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "",
+                "confidence": 0.0
+            },
+            "text": "resetting",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.9678729772567749
+            },
+            "text": "clear this",
+            "intent": "abandon"
+        },
+        {
+            "intent_prediction": {
+                "name": "find.generic",
+                "confidence": 0.8414604663848877
+            },
+            "text": "do you know anything about Nice",
+            "intent": "discover.city"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.5700647830963135
+            },
+            "text": "you there",
+            "intent": "Default Welcome Intent"
+        },
+        {
+            "intent_prediction": {
+                "name": "leave.negative",
+                "confidence": 0.9808104634284973
+            },
+            "text": "what's up",
+            "intent": "Default Welcome Intent"
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "id": "c1b5af4d-c49a-4c35-9849-0f421fd3268c",
+    "data": [
+      {
+        "text": "où est ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "ff904b65-617f-407e-be85-ef15537845f6",
+    "data": [
+      {
+        "text": "où est ",
+        "userDefined": false
+      },
+      {
+        "text": "245 Route des Lucioles, Valbonne",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "006100dd-1f04-4812-9d35-0639367739f8",
+    "data": [
+      {
+        "text": "où est ",
+        "userDefined": false
+      },
+      {
+        "text": "Rue Grimaldi",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "93e8ae6c-04b0-4e69-aac9-1a5c978d899c",
+    "data": [
+      {
+        "text": "où est l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "hôtel Negresco",
+        "alias": "accommodation",
+        "meta": "@accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "d0724a82-0dfb-4f27-8c53-85b5a8ca7590",
+    "data": [
+      {
+        "text": "où est le ",
+        "userDefined": false
+      },
+      {
+        "text": "musée MAMAC",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "2236570b-4a17-4740-bc7e-0b04b70ec7f6",
+    "data": [
+      {
+        "text": "où est la rue ",
+        "userDefined": false
+      },
+      {
+        "text": "245 Route des Lucioles",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " à ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "591936b0-f05e-4a3f-acbc-970180a3a444",
+    "data": [
+      {
+        "text": "où se trouve la rue ",
+        "userDefined": false
+      },
+      {
+        "text": "245 Route des Lucioles",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " à ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "906568f1-4e4f-4e4a-bbca-09e7a7afdb17",
+    "data": [
+      {
+        "text": "où se trouve le ",
+        "userDefined": false
+      },
+      {
+        "text": "musée MAMAC",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "ada259a7-19ac-4fd0-8a66-aacf56e0cd66",
+    "data": [
+      {
+        "text": "où se trouve ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "684e81c6-59c6-485b-b7d7-1207ff987018",
+    "data": [
+      {
+        "text": "où se trouve l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "hôtel Negresco",
+        "alias": "accommodation",
+        "meta": "@accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "da64c1d0-57a6-4fd8-b9f0-2c7c7405e98e",
+    "data": [
+      {
+        "text": "où se trouve ",
+        "userDefined": false
+      },
+      {
+        "text": "Rue Grimaldi",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "901991f1-41a1-4b47-86c4-d8f4e3516379",
+    "data": [
+      {
+        "text": "donne moi l\u0027adresse de ",
+        "userDefined": false
+      },
+      {
+        "text": "Rue Grimaldi",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "0b61c8fe-8184-410d-ae5e-db8b6b48a32f",
+    "data": [
+      {
+        "text": "donne moi l\u0027adresse du ",
+        "userDefined": false
+      },
+      {
+        "text": "Rue Grimaldi",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "5120d74c-487e-4e30-ba61-2fd348ec16fb",
+    "data": [
+      {
+        "text": "donne moi l\u0027adresse de la ",
+        "userDefined": false
+      },
+      {
+        "text": "Rue Grimaldi",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "59a4ed94-e17d-44f7-9904-dd5b004b6c37",
+    "data": [
+      {
+        "text": "donne moi l\u0027adresse de l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "Rue Grimaldi",
+        "alias": "poi",
+        "meta": "@poi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  },
+  {
+    "id": "6b221fec-e1dc-4432-b887-791cbba162dc",
+    "data": [
+      {
+        "text": "donne moi l\u0027adresse de l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "hôtel Negresco",
+        "alias": "accommodation",
+        "meta": "@accommodation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785970
+  }
+]

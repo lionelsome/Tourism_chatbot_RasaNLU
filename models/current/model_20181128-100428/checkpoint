@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lsome/rasa_minotour/models/current/model_20181128-100428/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/lsome/rasa_minotour/models/current/model_20181128-100428/intent_classifier_tensorflow_embedding.ckpt"

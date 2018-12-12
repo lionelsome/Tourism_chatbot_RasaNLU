@@ -1,0 +1,5120 @@
+[
+  {
+    "id": "e0270f56-5f09-4398-b54e-b36752fd9abb",
+    "data": [
+      {
+        "text": "I\u0027m feeling hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d9d9708a-ce6c-4642-9ceb-35c4c0e54318",
+    "data": [
+      {
+        "text": "I feel hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "fe4a8dcf-d659-4141-817d-0f6d83eb17f5",
+    "data": [
+      {
+        "text": "I want to go out to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0bbcfef6-fd97-46ca-ae75-2199fe055d94",
+    "data": [
+      {
+        "text": "I\u0027m hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c607ddfa-d0ae-4a55-b12e-ae008b936361",
+    "data": [
+      {
+        "text": "I need food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "966a0dfb-548c-40b2-b3b4-0b030cfffb20",
+    "data": [
+      {
+        "text": "I need to eat something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d05fb5d2-1e68-4086-b398-eb55f9064ad8",
+    "data": [
+      {
+        "text": "I want food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c0a3253a-101c-47b3-82d4-398c22a0eaad",
+    "data": [
+      {
+        "text": "I want to go to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d809194c-3960-4d4b-8ad8-d3de69741f35",
+    "data": [
+      {
+        "text": "I need to go to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ce31b24d-a396-4393-8e5a-1805ed53348e",
+    "data": [
+      {
+        "text": "I want to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "6cb806f8-3440-4c31-bba5-c9e0de7a3171",
+    "data": [
+      {
+        "text": "looking for a place to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "725049bd-469a-4e28-9a98-fb734044ef82",
+    "data": [
+      {
+        "text": "I need to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "93c5f561-da80-4bf9-8b5b-9d8e992c3298",
+    "data": [
+      {
+        "text": "I need a brunch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6adc0cac-4d79-4725-82e0-7fd8f218c396",
+    "data": [
+      {
+        "text": "I need a breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "46c82418-1c9d-4c03-beec-e21acd22631a",
+    "data": [
+      {
+        "text": "I want to eat something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e6b8c505-c438-412f-aeaf-006a1cc448b5",
+    "data": [
+      {
+        "text": "I want a brunch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "185dd453-ec4a-4707-b99b-d44588281570",
+    "data": [
+      {
+        "text": "I want a breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "35c0fcbe-66ba-405b-9a34-7c9653e9233d",
+    "data": [
+      {
+        "text": "I\u0027m starved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "57b1dd1b-936c-46a9-8ee4-271157224286",
+    "data": [
+      {
+        "text": "I\u0027m starving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b290635a-6185-4f24-bdb4-166d60b124e1",
+    "data": [
+      {
+        "text": "I feel like to eat something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e3117be1-5c88-4758-ad88-d0c79b22cdf3",
+    "data": [
+      {
+        "text": "I feel like having breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "80bad45a-4770-49ca-a62e-6e90941ad0b6",
+    "data": [
+      {
+        "text": "I feel like going for a brunch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "676cbc34-7131-4f69-823f-f397626813de",
+    "data": [
+      {
+        "text": "I feel like to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "91f6dd1e-b105-4e05-b24d-bc2dd60afb1f",
+    "data": [
+      {
+        "text": "where can i eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3807874b-512b-42ae-b560-ff516c5107cf",
+    "data": [
+      {
+        "text": "eat out in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3651cdcc-fd75-421f-af19-40a3ea611b92",
+    "data": [
+      {
+        "text": "eat out at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6c84f323-4cc6-41ad-babd-43ea1734e593",
+    "data": [
+      {
+        "text": "find a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3d99751a-de79-41b9-89c8-24e33457a453",
+    "data": [
+      {
+        "text": "find a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4b1d215f-e013-4d70-9cfe-00e5ca03086b",
+    "data": [
+      {
+        "text": "find a place to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d10d4272-1bde-4c88-8b09-d3de95cbae67",
+    "data": [
+      {
+        "text": "find a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d5a9c342-17b1-42e6-ab84-278c326d6fdf",
+    "data": [
+      {
+        "text": "a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "413ca716-6c27-412e-abac-5c1a1ef0da58",
+    "data": [
+      {
+        "text": "a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "a56ff226-c02c-492a-ab07-610583d5aaf7",
+    "data": [
+      {
+        "text": "a place to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5ac53ff9-7782-4c12-9f48-3db0afce68fc",
+    "data": [
+      {
+        "text": "a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1304f392-ee00-4350-aab1-d64df4d71ed1",
+    "data": [
+      {
+        "text": "I want to go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1ddaeff2-1f6f-47ca-9305-f4ce633e91de",
+    "data": [
+      {
+        "text": "I want to go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "83255566-2b63-44d7-ba29-4c08dc2bf506",
+    "data": [
+      {
+        "text": "I want to go to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2de01a65-4ed7-42bd-a508-8fd5605b60b2",
+    "data": [
+      {
+        "text": "I want to go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0ff82b66-e691-4688-915a-b9831f4dd1c0",
+    "data": [
+      {
+        "text": "looking for a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "447a797a-7226-44f8-b9c5-aa999dbc965b",
+    "data": [
+      {
+        "text": "looking for a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "30d73c3f-cdeb-4c59-8c8a-e71fa327698f",
+    "data": [
+      {
+        "text": "looking for a place to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "ad30f5e7-8ea5-424d-9cab-8c41015c65ac",
+    "data": [
+      {
+        "text": "looking for a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ca98e51b-5f69-4ea8-8359-6a32a7f78053",
+    "data": [
+      {
+        "text": "look for a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "03d74a01-b5ba-4302-b7e0-6532cbac5ef8",
+    "data": [
+      {
+        "text": "look for a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b2551a29-449d-4e60-9fe9-83eb737f641f",
+    "data": [
+      {
+        "text": "look for a place to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "eed49f15-df64-4fd0-808d-c775028318a4",
+    "data": [
+      {
+        "text": "where can I eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "414b3e6f-148c-4a71-9d56-06aed87f6a6d",
+    "data": [
+      {
+        "text": "where can I eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0592972f-23c7-4c65-ba63-c632bcbd0211",
+    "data": [
+      {
+        "text": "where can I eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "190dac9f-a259-4eab-b02c-3d3a99537809",
+    "data": [
+      {
+        "text": "where can I eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "db24c90c-cfdd-4c89-a2ed-a63cfe49a19c",
+    "data": [
+      {
+        "text": "I need to go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "97d3891c-b1af-4212-88d1-78625c5683eb",
+    "data": [
+      {
+        "text": "I need to go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "53fa6c33-929f-49ef-9623-6f3482023070",
+    "data": [
+      {
+        "text": "I need to go to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "8d69dc7e-0a51-4680-a462-8d30650ee449",
+    "data": [
+      {
+        "text": "I need to go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d759bc19-8b90-4a00-8dc2-0672f4a0e52f",
+    "data": [
+      {
+        "text": "I want to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e90b4656-edfd-4f44-b714-4ed0e4e424b9",
+    "data": [
+      {
+        "text": "I want to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "aab9f910-ad32-443f-a02e-a41f66a3f6cb",
+    "data": [
+      {
+        "text": "I want to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "7ab52c17-7755-4dae-b3b9-626fa1af581e",
+    "data": [
+      {
+        "text": "I want to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b8ec51d6-5949-467c-9796-d8e7821ec0e5",
+    "data": [
+      {
+        "text": "looking for a place to eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "36a6c5d1-ac46-4401-8bb0-64f0e4197daa",
+    "data": [
+      {
+        "text": "where can i eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "37cdf3b3-3257-4249-b87e-74c1c36b2cf4",
+    "data": [
+      {
+        "text": "I need to go out to eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5aca2172-a156-443b-8ad7-4210914edd63",
+    "data": [
+      {
+        "text": "I want to eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "b9d773ae-478c-4e92-ad4e-52a88a8ace75",
+    "data": [
+      {
+        "text": "find a place to eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "af114eb4-c2f0-4382-bc3c-08a1e617af92",
+    "data": [
+      {
+        "text": "Music restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "eeabd6bf-7c35-443c-b33d-bcb258de278a",
+    "data": [
+      {
+        "text": "Music restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ec4675c0-faae-4dd0-afdc-c38e24d6de24",
+    "data": [
+      {
+        "text": "Music restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0cbeab1b-8fff-4b0c-8714-db8c347e7a0b",
+    "data": [
+      {
+        "text": "Music restaurants ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1539785850
+  },
+  {
+    "id": "aa113ef9-8b65-4db1-aaff-d066b69a4932",
+    "data": [
+      {
+        "text": "Music restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6bf0ea48-bdb1-4477-b5bb-6e51dccfde41",
+    "data": [
+      {
+        "text": "Music restaurants at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3ead657c-555b-44da-97b2-208e20b125a3",
+    "data": [
+      {
+        "text": "Music restaurants on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "99c11daf-94b0-46c5-8f09-e704159aae8c",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b921ac3b-944a-488c-96bb-1d6896d68ae3",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0235c318-23d7-4f1c-a961-d89dff3b8313",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2aeb6d62-206d-48ce-b020-620f621a9ce7",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "a0850b6b-e830-462c-a0d5-213fa0261928",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d2a4586b-1bf4-4b94-bf3c-addcadc9883c",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d8605dc2-61bf-4634-8a6f-bda0e9dc5503",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "67e4a75c-a0f3-4d09-84f6-0ef42b6be6b6",
+    "data": [
+      {
+        "text": "find a place to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "66aa7033-1b5d-473f-a4df-ba525cd2a7c3",
+    "data": [
+      {
+        "text": "a place to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "fa571b78-7727-4944-b55c-2ecf42cc2e64",
+    "data": [
+      {
+        "text": "I want to go to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "354e9ad4-0a62-46b4-8718-92584bd09e96",
+    "data": [
+      {
+        "text": "looking for a place to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3ecef1e1-af81-4038-9cd4-7a42d0e2513f",
+    "data": [
+      {
+        "text": "where can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "7668ac93-6049-4143-9405-9d76c9e39fdc",
+    "data": [
+      {
+        "text": "I need to go to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "62ead08f-77ae-4b38-8769-bf575012c8e8",
+    "data": [
+      {
+        "text": "I want to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b13022ae-efcb-476c-9fdf-17d8a4cd2ceb",
+    "data": [
+      {
+        "text": "find a place to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4ac99bec-e385-4d34-8ab9-1ba27b3683e5",
+    "data": [
+      {
+        "text": "a place to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "dab0e9dc-163c-4efe-9fde-11b5ea7ddd53",
+    "data": [
+      {
+        "text": "I want to go to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c8d58179-2463-401d-9dc9-90262d40c518",
+    "data": [
+      {
+        "text": "looking for a place to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "cefde542-7293-468f-b669-a3591f5b1d96",
+    "data": [
+      {
+        "text": "where can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "255226b8-eb79-4148-a457-3ddfc6527f38",
+    "data": [
+      {
+        "text": "I need to go to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1220e172-cd63-4d98-9a15-c2e8c3370bb6",
+    "data": [
+      {
+        "text": "I want to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1233f0f0-a25b-41a1-a42d-76e2d8bd4c73",
+    "data": [
+      {
+        "text": "I would like to take a drink in a Bar ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "a4e07f80-a372-438e-a169-fafe3e0b6127",
+    "data": [
+      {
+        "text": "find a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f5339c40-7014-4c3c-be7f-4cf35d9c3f44",
+    "data": [
+      {
+        "text": "find a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b0f176d7-2d80-427d-a3f4-5f032758a6da",
+    "data": [
+      {
+        "text": "find a place 2 eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0a178643-493b-4de7-9e97-ae6c62c5755d",
+    "data": [
+      {
+        "text": "find a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "54cb0d9d-bb89-464e-97d3-4f854d133244",
+    "data": [
+      {
+        "text": "a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1820b4e6-4760-42ab-950f-37b02e7f52e4",
+    "data": [
+      {
+        "text": "a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e13b6d3e-4786-4add-8cb2-7162991a8bf7",
+    "data": [
+      {
+        "text": "a place 2 eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f26210a2-fda9-4819-97e9-9b73c262445b",
+    "data": [
+      {
+        "text": "a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "cf30157f-c920-4967-98f7-b8aaf334da56",
+    "data": [
+      {
+        "text": "I wanna go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e17d54c7-4426-4e36-8dcf-672d1a6f0b64",
+    "data": [
+      {
+        "text": "I wanna go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "01a4cf54-87b9-4009-9f1f-e1fcfea0b37a",
+    "data": [
+      {
+        "text": "I wanna go to eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f6329f38-1ed9-48bd-82c6-ac5fc02ae705",
+    "data": [
+      {
+        "text": "I wanna go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "9be249a6-d90c-4449-bdbf-6823e2f3d133",
+    "data": [
+      {
+        "text": "looking for a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "74f84885-8260-4ecc-a17d-c737d208f6c0",
+    "data": [
+      {
+        "text": "looking for a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "40264459-4621-4991-8afd-e916ce106f3f",
+    "data": [
+      {
+        "text": "looking for a place 2 eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "7da03e0c-2fee-4b9e-891b-700ffa0ab0fd",
+    "data": [
+      {
+        "text": "looking for a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ed33e3af-d9b9-4d73-b3cb-9db7b289f4ca",
+    "data": [
+      {
+        "text": "look for a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2ae5c791-1ab8-4b98-9351-eaa1975dc52c",
+    "data": [
+      {
+        "text": "look for a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "24fa6651-ccea-470e-a197-7ac698c804c5",
+    "data": [
+      {
+        "text": "look for a place 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "9a7b9f8d-5bb9-4fee-903d-3299a6a0c72c",
+    "data": [
+      {
+        "text": "I need 2 go 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1d902770-2569-457d-a9b9-7f05eb6bd2cb",
+    "data": [
+      {
+        "text": "I need 2 go 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "9ca22fc8-4b94-4cec-9232-ffd8a4b63f14",
+    "data": [
+      {
+        "text": "I need 2 go 2 eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4dcc6444-90a4-4b95-89dc-77f639bb4f35",
+    "data": [
+      {
+        "text": "I need 2 go 2 eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ee8460b8-163f-4f10-b068-c8dd27223ea7",
+    "data": [
+      {
+        "text": "I wanna  eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6921fc19-c673-48f2-a358-a3f87913c6b9",
+    "data": [
+      {
+        "text": "I wanna  eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "67a4923c-ef12-4bf5-8450-ad970dd997fb",
+    "data": [
+      {
+        "text": "I wanna  eat on ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1555b309-df98-4cb8-a20a-f5f46e134172",
+    "data": [
+      {
+        "text": "I wanna  eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e3ca6392-2ccd-48bc-9685-c46ce64f451c",
+    "data": [
+      {
+        "text": "looking for a place 2 eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d6951d70-9774-4503-820b-0d21aaa869db",
+    "data": [
+      {
+        "text": "I need 2 go out 2 eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0f06e34e-be2a-4fe7-b8e1-99acaab74d5b",
+    "data": [
+      {
+        "text": "I want 2 eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1969a1e6-ae03-4733-b2aa-7e306b5e34fd",
+    "data": [
+      {
+        "text": "find a place 2 eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d33dca74-da2d-40f0-9e80-53baaf54aa2f",
+    "data": [
+      {
+        "text": "I wanna eat at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "646630a1-0783-40c6-a465-f2051d9d52d4",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "fd91134f-8b58-423b-b469-16f0d86cbb42",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5ca93ab3-4f6a-486d-8a89-f64fd56523b6",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "December",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b5712580-af75-4e39-b2d9-17c7461a7a82",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539785850
+  },
+  {
+    "id": "5b93c591-07a2-4d79-b358-c5696bee2047",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "8c028508-1323-4e77-bd12-c67cb81d2b9c",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar at ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e8e7fdda-12dc-4f2f-af4c-7879342f23a1",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar on ",
+        "userDefined": false
+      },
+      {
+        "text": "14th August",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4396bf19-5f38-44e2-9bd3-39c8b8444423",
+    "data": [
+      {
+        "text": "find a place 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ae32ceba-7635-4951-a4ab-5de26d70b205",
+    "data": [
+      {
+        "text": "a place 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "9eeccbfe-3112-4a72-8684-bb77d1714663",
+    "data": [
+      {
+        "text": "I wanna go to eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4bd40d28-f280-4ceb-9bf9-9f4b7ea252ee",
+    "data": [
+      {
+        "text": "I need 2 go 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0a34ce8b-4b7f-4a27-9baa-7e534ea0631c",
+    "data": [
+      {
+        "text": "I wanna eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f2548155-299a-43bf-9fa4-fc1deffe7a28",
+    "data": [
+      {
+        "text": "find a place 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6a29c9bb-c860-4058-88c8-9ab7e36bc89e",
+    "data": [
+      {
+        "text": "a place 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3777ae60-8de7-4377-a645-390b91b6bfa0",
+    "data": [
+      {
+        "text": "I wanna go eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c2658eea-af13-49c2-90e5-f14a14839065",
+    "data": [
+      {
+        "text": "looking for a place 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "19efb383-bd02-43c1-b072-0ffd8988563e",
+    "data": [
+      {
+        "text": "I need 2 go 2 eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5ba5f90e-a210-42cf-a0a7-e4f8969001ec",
+    "data": [
+      {
+        "text": "I wanna eat ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e4933c49-ac21-4ce4-95be-3837f80b296d",
+    "data": [
+      {
+        "text": "I would like 2 take a drink in a Bar ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "datetime",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nice",
+        "alias": "city",
+        "meta": "@city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6c338fad-fc62-4768-bc40-8a9123dbb576",
+    "data": [
+      {
+        "text": "@food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4b049def-ae07-4fa0-81f4-77b0ea4aca27",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "9505a148-2d76-47a2-a4ed-ddcd96b3df48",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "9445d51f-ddfe-403c-a84c-736ccafa5464",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "de4cd851-44a0-431a-a422-6c13ce909543",
+    "data": [
+      {
+        "text": "@city:city @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "19424d21-e2bb-41a6-9a3e-99d74750044a",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5b7ac0bd-3cee-422f-8c20-b9e245b8e446",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "8684eabd-2816-47c6-ad07-f9faba1bf807",
+    "data": [
+      {
+        "text": "@city:city @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "fd9e49a0-21c0-4ba1-9f71-cc0848347ad4",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "a90cd8cd-a2b0-4530-8462-f1d1545945bd",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "57b7463d-6622-49ca-b042-458e4be5aebc",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "134f9c80-d4fc-4a6f-a99c-b79ee43fdaa4",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "a4fd6e92-381e-4348-8632-a26063164f8e",
+    "data": [
+      {
+        "text": "@food:food @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6d91951c-b08c-42f1-bdaf-2e7fa6c0f451",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c7f23c30-f984-4e9e-a5b8-eb0673677841",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "52450450-dfee-44b2-b23f-40df6800eecc",
+    "data": [
+      {
+        "text": "@food:food @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0a17be92-6117-4456-830c-9eb08da5dff1",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6b6c5bb9-a543-4ee5-b44d-de76b4cac0e3",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "98a8d7a6-083d-4ad7-982f-37deb6eaafb2",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2fdbc97f-a183-44a2-b7ca-970992dc090b",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3e613d3f-3f6f-4e2f-8b42-faf7d5dca312",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f4184434-906e-42cf-8605-e69364ac8eb7",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1d1b6f1f-8dbf-46b7-a9a3-b9e03bbbce8a",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6a04367a-7a2a-4ff7-a636-01dabb0cadb9",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e0c51436-6244-4686-9691-6d4155eb49e8",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "85c43713-e1ae-4a60-b376-eecc2124d2bf",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "39b03377-85da-401e-bf64-adede47ca13e",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "00d4adb0-4d3c-4f9f-9774-66a16ab72a5f",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2b18a40a-faf7-471f-9043-940f280411a7",
+    "data": [
+      {
+        "text": "@food:food @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "78828422-2e98-45dd-8219-66871547c709",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b0a4965d-53be-4bb6-9b5f-1acbb7654e17",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4de7e6e7-f497-465d-a05b-5aaf00b9e823",
+    "data": [
+      {
+        "text": "@food:food @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "df8493af-7629-4ec5-9d9f-5e9e1185c901",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d61c5fd7-f861-4903-97ca-726e47d8bdb9",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "87245b29-f8a6-4985-b3b3-ae4b3a993942",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f77e90ae-f039-48d1-aaaa-776e2ca72405",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f68ba5eb-c600-481d-90b6-6dae0a4631ed",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5b54e104-4b13-474e-8013-a68022c26cb2",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "8e4c22f6-7b65-436f-afc8-22dd4414653e",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "353660bb-a854-45af-b4a8-61030d56c59e",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "71f53aef-7df9-42ac-9aed-3c9f9950a714",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "87dc98af-a7e0-4e76-82d9-12a7cbad53e7",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2dff6e25-fe40-404d-9d75-2b593338e777",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1c223810-8aed-44c2-b08e-d153c50937ae",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d0ac744a-b581-4dfc-aeeb-f6b9313e9b33",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "541505f4-6b4c-4c2c-ba67-a6abf4dd03d8",
+    "data": [
+      {
+        "text": "@city:city @sys.date-time:datetime @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "70186cba-b4b2-447c-8846-fa8b18ca6a8a",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1c52f9cf-3d35-4f17-a258-5468db654bcf",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "272622b6-7a6e-437e-bde9-0150d6ea3736",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.date-time:datetime @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ae7b4a41-c73f-406a-a739-ab2348f056a2",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @sys.date-time:datetime @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "90d91569-0a9b-4a18-9475-ce7fa5a86f8b",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "27641724-5bf0-45a6-9586-19e116e75979",
+    "data": [
+      {
+        "text": "@city:city @food:food @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e4a6c132-1220-4c25-9f6d-c96e27dc710a",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @food:food @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b14bf6d0-4cff-441f-aee1-330c5e3c682d",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @food:food @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "8c13a142-f49b-41d6-8bab-a1cded70893e",
+    "data": [
+      {
+        "text": "@city:city @food:food @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "a35112bf-dd19-4474-b011-4d3dd2c4abd2",
+    "data": [
+      {
+        "text": "@city:city @food:food @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "523b799b-7d64-47c2-9548-29d57fbbea81",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @food:food @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "4981f894-abde-4546-b2af-c7c398e3e611",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @food:food @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "7af04caa-e52d-4fb5-bbaa-f98be4fd1b93",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @food:food @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "f9f77af4-7f75-40d6-9706-6ea7cf7edd40",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @food:food @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ca0d59b1-92f9-4e0c-8cda-9df53df94a02",
+    "data": [
+      {
+        "text": "@city:city @food:food @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "dd2745d6-b8c6-49eb-b1c0-d662022385b9",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @food:food @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "eaa788e8-ceca-4a8d-9ad2-bc81f398ee8e",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @food:food @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "60baea9a-1ee3-45a2-bcc7-6ed6173876c4",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @food:food @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "16a87a9e-13a3-4e2c-87e7-57380b74e1f0",
+    "data": [
+      {
+        "text": "@city:city @sys.any:any @food:food @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "72467139-ec03-49c9-94ce-e06d8575826b",
+    "data": [
+      {
+        "text": "@sys.any:any @city:city @sys.any:any @food:food @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "99b6ba16-0be2-4f84-b65d-e3a6062b95b2",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "13407338-d26e-49b0-a9c3-da487e56fc5d",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "782a6527-dac2-4007-b063-08728f17c016",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "19d25535-a728-4eae-bae3-6a614db968a1",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "22ee51a3-5a34-40ad-ba36-11254b00e509",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "cb7adce6-287e-4dda-a850-7c3f2e1b5739",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "6907b3f5-cc86-4d21-ba1c-b012fc81bc20",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "bf539dff-effc-4774-8775-d9a1193b5a52",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "dae092e0-fc1f-41ae-a3f2-8a217fea0840",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d9c5c562-7727-48f2-b250-f1b6c3e9df31",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @city:city @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "5aec1c03-9efe-48ea-b654-fcc0e38157ec",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @food:food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "14fdd92a-d0d4-499a-81ec-3fecffa37d5c",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b794731d-f386-451c-9b55-3619f184c452",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @city:city @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "363eea9e-27b7-4d47-80b3-e81a38b61dcb",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @city:city @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "8987340a-557d-4e64-9ab3-83adfa4df2e3",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any @food:food @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "97f182f8-1dc2-426b-a2af-969e3f308903",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @food:food @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e6d216b6-507e-48ca-9bb4-36f5d4e68e24",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @food:food @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c212f3da-a7c8-4066-ad8e-dd66dcf60d52",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @food:food @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1d0ffa17-b223-4425-9324-bd881c959345",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @food:food @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "67fea149-2e60-45a4-965b-816c5a45e24b",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @food:food @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "fe6dc5c0-beb6-4805-b5d9-553e53cccb0d",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @food:food @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e9b172cb-212e-4ab4-a181-4b06de06cb6e",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @food:food @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "0e611c52-12ea-4858-899a-3162a2fe973b",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @food:food @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "19da0015-9fb9-4bd9-9e96-c1704f721f01",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @food:food @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "51046c9e-c884-4f87-8c2a-dbe244dca2a3",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @food:food @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "e8b67711-04e6-4a03-9bd1-dc65fd250315",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @food:food @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "922f95b6-d321-4651-a0ef-91048c01bdf9",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @food:food @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c6fabdc4-9c49-475a-8ae6-12c0e6596f7d",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @food:food @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "55ad5cb2-a790-4cc9-afd3-4b8a22578fd9",
+    "data": [
+      {
+        "text": "@sys.date-time:datetime @sys.any:any @food:food @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "47dde2a8-8204-4990-b5a9-c5763cd7a7e6",
+    "data": [
+      {
+        "text": "@sys.any:any @sys.date-time:datetime @sys.any:any @food:food @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "520f46e4-2711-4e1a-b04c-889dfc743381",
+    "data": [
+      {
+        "text": "@food:food @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1b83f16a-55e7-4d51-a66c-f4c7aab6e732",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ae37f3f9-d11b-46ba-bf06-d60823eae9ee",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "ac159212-43a7-46cc-9b14-60f74fe335b9",
+    "data": [
+      {
+        "text": "@food:food @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "02b588f7-604b-45c7-b536-942c9a5f426a",
+    "data": [
+      {
+        "text": "@food:food @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "dee9fc2f-8a97-426c-9e3b-c2250189d75c",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @city:city @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "58d049c7-919a-46f0-befd-a8f2a2fa0755",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b4182c83-13cc-4011-a416-a559674179a7",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1a0cc40d-fbf8-4d80-9d8b-03e4e26c680e",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "a0bc9412-03ee-453f-8579-9537e839a694",
+    "data": [
+      {
+        "text": "@food:food @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3ad5cf1a-66ff-487d-a3bd-ac45c5a95eaa",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @city:city @sys.any:any @sys.date-time:datetime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "82568331-2dc5-4dd1-a71e-76be7998e3d3",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @city:city @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "63a3cbc9-1d34-4860-b10a-f1699f61aa93",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "44f2d61d-67b5-4155-bcda-7ce1a95a546d",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "589035bb-551f-488b-becd-ae03e2e3480e",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @city:city @sys.any:any @sys.date-time:datetime @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d3d12268-a878-4872-82d4-63412b0a4304",
+    "data": [
+      {
+        "text": "@food:food @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "d57fcf1d-13e6-4f97-bfe8-b6ec91634f36",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "3fb65832-2355-4b3a-aeca-a3d64d27392e",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "1505a2f8-2e3a-4431-b2bf-a661cac80c0d",
+    "data": [
+      {
+        "text": "@food:food @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "72a96c35-be84-47db-87f5-f3552282b28a",
+    "data": [
+      {
+        "text": "@food:food @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "b8c709e7-da67-4c2e-8370-9ea7d4a44ec5",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @sys.date-time:datetime @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "26b9dffc-3787-473e-b15c-45296eeb3b7a",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "7f60536c-d530-4d62-bf61-79ef793d15fd",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "2cc4d886-5cb9-445a-9dbb-455b1c26f7fc",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "c0de7113-7173-4889-8b5a-2d3672422fd3",
+    "data": [
+      {
+        "text": "@food:food @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "efc33608-f4a2-4c4d-8c01-ed040e441081",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @sys.date-time:datetime @sys.any:any @city:city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "349f430f-cfa3-4e73-a126-66a3237a0182",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @sys.date-time:datetime @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "411a0310-c21a-4a01-ba82-aadf968f3c54",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "280ee07e-9c04-4051-a862-76478283ca6c",
+    "data": [
+      {
+        "text": "@food:food @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  },
+  {
+    "id": "496e8d7e-69ac-400d-9c69-9d2bef799a5a",
+    "data": [
+      {
+        "text": "@sys.any:any @food:food @sys.any:any @sys.date-time:datetime @sys.any:any @city:city @sys.any:any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1539785850
+  }
+]

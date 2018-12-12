@@ -1,0 +1,60 @@
+{
+  "id": "6cac8718-9659-4d11-b603-595a4a582c62",
+  "name": "weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f8a6a1e9-4b56-4ddb-b0eb-0a33d2828774",
+          "required": true,
+          "dataType": "@city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which city would you like to know the weather?"
+            }
+          ],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "13ff5ea3-9845-4971-9865-2f0f0470b3df",
+          "required": false,
+          "dataType": "@weather",
+          "name": "weather",
+          "value": "$weather",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539786278,
+  "fallbackIntent": false,
+  "events": []
+}
