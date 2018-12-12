@@ -1,7 +1,8 @@
 # Tourism_chatbot_RasaNLU
 This project aims at testing RasaNLU by improving intents classification and entities extraction of a tourism chatbot.<br>
 To achieve that we try two pipelines (spacy_sklearn, tensorflow_embedding) and different components of both pipelines.<br>
-Therefore, this is a first part towards building a tourism chatbot with Rasa; the second being the training of a Rasa Core model.
+Therefore, this is a first part towards building a tourism chatbot with Rasa; the second being the training of a Rasa Core model.<br>
+The notebook contains a test an evaluation of both tensorflow and spacy pipelines with increasing training data sizes. It appears that tensorflow_embedding is much faster and gives a very good accuracy while spacy has scalability problems and gives bad results. For more details, take a look at the notebook.
 
 # Installation
 
